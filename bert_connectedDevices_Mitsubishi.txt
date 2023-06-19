@@ -1,0 +1,156 @@
+BERT: For cluster 18: tv / dvd
+BERT: For cluster 105: 1983 murmur
+BERT: For cluster 111: nothing
+BERT: For cluster 112: 1994 lifeforms
+BERT: For cluster 115: neventwatcher. exe ( 4830006 ) nhandlerreqreceiver
+BERT: For cluster 120: 44
+BERT: For cluster 129: 00
+BERT: For cluster 135: sp = 0014f794, bva = 00000000
+BERT: For cluster 137: 456789 : ; < = >? @ abcde
+BERT: For cluster 154: decoder
+BERT: For cluster 171: 00 a0 10 00
+BERT: For cluster 179: sp = 0226faec, bva = 02270018
+BERT: For cluster 182: cmp3parser : : isendofstream
+BERT: For cluster 190: media
+BERT: For cluster 192: neventtransmitter
+BERT: For cluster 198: decoder
+BERT: For cluster 203: 00 aa 07 01 0e 00 00 61 00 6c 00 63 00 61 00 74 00 65 00 6c 00 20 00 49 00 44
+BERT: For cluster 208: sp = 0225faec, bva = 02260018
+BERT: For cluster 234: 00 a0 18 00
+BERT: For cluster 258: usb
+BERT: For cluster 356: canbox ', ' cpu 0x00 > display
+BERT: For cluster 357: cpu hdm [ % d ] ', ' cpu dtv [ % d ] ', ' invalid cpu = % x ', ' octet ', ' boot. bin '
+BERT: For cluster 359: ' asic eval int status ', ' asic eval spi parameter 4 ( test mode ) ', ' asic eval spi parameter 3 ( master ch ) ', ' asic eval spi parameter 2 ( bps ) ', ' asic eval spi parameter 1 ( cr1 ) ', ' asic eval spi loop - back ' ]
+BERT: For cluster 360: ' gpio loopback input
+BERT: For cluster 361: gpio loopback output
+BERT: For cluster 364: usb host test
+BERT: For cluster 365: ' specified usb msc device not avairable ', ' fat top lba = % x ', ' melco rndis kitl for epson s1r72v17 '
+BERT: For cluster 366: usb
+BERT: For cluster 372: ceps
+BERT: For cluster 373: aircon
+BERT: For cluster 382: ' traffic ', ' music ', ' voice ', ' weather ', ' chemical brothers ', ' spandau ballet '
+BERT: For cluster 385: playlists
+BERT: For cluster 386: loading
+BERT: For cluster 390: loading device check : checksum ng ', ' device autoselect ', ' update ', ' display
+BERT: For cluster 391: usb
+BERT: For cluster 392: device list
+BERT: For cluster 393: ' camera ', ' schedule ', ' system ', ' calculator ', ' telephone
+BERT: For cluster 395: microsoft virtual rndis miniport
+BERT: For cluster 400: dvd
+BERT: For cluster 404: ipod
+BERT: For cluster 405: facebook
+BERT: For cluster 406: ' schism tool lateralus. mp3
+BERT: For cluster 408: albums
+BERT: For cluster 409: hd radio
+BERT: For cluster 410: maintenance
+BERT: For cluster 412: movies
+BERT: For cluster 413: directory
+BERT: For cluster 417: facebook
+BERT: For cluster 418: ethernet
+BERT: For cluster 431: amazon
+BERT: For cluster 444: ' security _ bots ', ' sledger ', ' compasspanel ', ' musicfolder '
+BERT: For cluster 457: com. lifevibes. trimapp '
+BERT: For cluster 470: ' com. htc. lucy ', ' com. kii. safe ', ' com. utorrent. client ', ' pending _ blobs ' ]
+BERT: For cluster 473: usb
+BERT: For cluster 504: usb
+BERT: For cluster 513: subcpu _ send _ device _ connect _ status : send error
+BERT: For cluster 517: # 10 : hdd partition 1
+BERT: For cluster 519: unexpectedpid
+BERT: For cluster 523: usb
+BERT: For cluster 548: ' load memory ', ' calc sum memory ', ' fill memory ', ' dump memory '
+BERT: For cluster 549: download filename ', ' skip file [ % s ] ', ' search file % s ', ' delete file ', ' illegal file name ', ' other files ', ' files
+BERT: For cluster 550: usb communication check
+BERT: For cluster 552: ' sram check full ', ' sram check easy ', ' cache
+BERT: For cluster 556: fat32 ', ' fat16
+BERT: For cluster 558: usb msc device insert
+BERT: For cluster 559: ' illegal device
+BERT: For cluster 560: ' android ', ' gameloft ', ' ringtones ', ' offline ', ' image ', ' video ', ' games ', ' intro ', ' menus '
+BERT: For cluster 564: themes
+BERT: For cluster 583: 1994 lifeforms 2 disks ) '
+BERT: For cluster 590: images
+BERT: For cluster 610: check the connection. ', ' check the media is inserted
+BERT: For cluster 613: ethernet
+BERT: For cluster 615: msc device not ready
+BERT: For cluster 616: connected device is not usable
+BERT: For cluster 618: usb msc device not ready
+BERT: For cluster 626: ethernet
+BERT: For cluster 644: cc0s
+BERT: For cluster 648: genre
+BERT: For cluster 649: dot square
+BERT: For cluster 652: devicekey
+BERT: For cluster 653: pcs
+BERT: For cluster 657: am / fm
+BERT: For cluster 661: command list
+BERT: For cluster 662: loading info set
+BERT: For cluster 665: loader. ', ' updating the main cpu. ', ' updating the display
+BERT: For cluster 672: device name is < % s >
+BERT: For cluster 674: usb board init was done % d. checking debugusb board infomation was % d. ', ' rtc date / time get ', ' rtc date / time set ', ' plane scroll ', ' nr - 242 middle check ver0. 26 '
+BERT: For cluster 684: ethernet
+BERT: For cluster 700: k = @ 5
+BERT: For cluster 709: bbc
+BERT: For cluster 724: ' com. android. chrome ', ' com. android. contacts
+BERT: For cluster 726: google. android. videos
+BERT: For cluster 727: samsung. android. app. episodes
+BERT: For cluster 729: android _ secure ', ' com. geico. mobile ', ' com. htc. musicenhancer ', ' com. wildtangent. android
+BERT: For cluster 730: android
+BERT: For cluster 734: streams
+BERT: For cluster 753: tablet
+BERT: For cluster 755: \ \ usb \ \ nk. bin
+BERT: For cluster 757: ' mmc13. font. bin ', ' mmc13. frame. bmp ', '? & < < < & ch ', ' cdpcm '
+BERT: For cluster 761: ' download _ cache ', ' lights. mp3 ', ' inputassist '
+BERT: For cluster 772: music. download. paradise
+BERT: For cluster 775: amazon
+BERT: For cluster 782: fl - rom
+BERT: For cluster 798: mmc13. indicate
+BERT: For cluster 800: cb3
+BERT: For cluster 839: ' com. picsart. studio ', ' rtmap
+BERT: For cluster 877: ' ttth ', ' gloftbphp ', ' 4c16f1 '
+BERT: For cluster 904: 28
+BERT: For cluster 906: 28
+BERT: For cluster 907: a5 a5 00 02 11 00 49 00 00 00 00 00 05 fe 9a 02 45
+BERT: For cluster 910: 0c 00 24 00 00 23 00 00 16 00 00 01 01
+BERT: For cluster 917: 03 06 24 00 00 1b 23 06 06 00 00 01
+BERT: For cluster 939: 28
+BERT: For cluster 947: 28
+BERT: For cluster 952: 03 06 24 00 00 1a 23 06 06 00 00 01
+BERT: For cluster 956: 03 06 24 00 00 1c 23 06 06 00 00 01
+BERT: For cluster 964: 28
+BERT: For cluster 970: 0c 00 24 00 00 24 00 00 16 00 00 01 04
+BERT: For cluster 971: 28
+BERT: For cluster 979: media
+BERT: For cluster 989: radio fr ', ' r. e. m. - murmur - 02 - pilgrima ', ' r. e. m. - murmur - 03 - laughing ', ' r. e. m. - murmur - 04 - talk abo ', ' r. e. m. - murmur - 05 - moral ki
+BERT: For cluster 1005: ' r0 0 " ', ' " c2c3 ', '. data ', ' user1 ', ' user2 ', ' phonebook '
+BERT: For cluster 1039: # 1
+BERT: For cluster 1046: run reply sanity
+BERT: For cluster 1047: ' psxoid
+BERT: For cluster 1073: symbiote _ chargers
+BERT: For cluster 1080: ' select sd ', ' select disc ', ' select disc only ', ' select ata card only ', ' select hdd only ', ' select sd only ', ' select usb only ', ' select ethernet only '
+BERT: For cluster 1090: veracruz
+BERT: For cluster 1093: usb
+BERT: For cluster 1094: mobile ', ' picture ', ' private ', ' video ', ' music '
+BERT: For cluster 1096: tftpreceiver
+BERT: For cluster 1102: com. surpax. ledflashlight. panel ', ' flipboard. app ', '. thumbnails ', ' browser - photos
+BERT: For cluster 1103: bloader
+BERT: For cluster 1107: ' aplmdl _ info affter data
+BERT: For cluster 1108: device = % x act = % x unit = % x
+BERT: For cluster 1122: usb
+BERT: For cluster 1126: masc _ systemparam _ user
+BERT: For cluster 1139: ' imageloader ', ' cutscenes '
+BERT: For cluster 1143: canvehicle _ data
+BERT: For cluster 1199: ' \ \ usb
+BERT: For cluster 1201: ' disconnected!! ', ' usbddwrite
+BERT: For cluster 1211: ' com. facebook. katana ', ' com. vcast. mediamanager '
+BERT: For cluster 1212: ' basic _ moves ', ' guidemap ', ' mapupdate '
+BERT: For cluster 1219: '. dlnaimage ', ' soundrecorder ', ' vehicleinfo ', ' audiofiles
+BERT: For cluster 1234: ui _ telematics _ log
+BERT: For cluster 1252: disc. source _ device
+BERT: For cluster 1269: 4lf
+BERT: For cluster 1283: target _ device
+BERT: For cluster 1287: create table t _ pmaf _ playlist
+BERT: For cluster 1289: loading device
+BERT: For cluster 1401: cb3
+BERT: For cluster 1423: usb
+BERT: For cluster 1472: media 0x % x [ usb
+BERT: For cluster 1473: usb
+BERT: For cluster 1474: usb
+BERT: For cluster 1478: cpu

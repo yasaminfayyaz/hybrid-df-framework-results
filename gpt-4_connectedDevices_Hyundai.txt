@@ -1,0 +1,245 @@
+GPT-4: For cluster 1: sirius trois, sirius deux, sirius un, satellite deux, satellite trois
+GPT-4: For cluster 2: Appareil connecté: Blue tooth
+GPT-4: For cluster 8: U S B
+GPT-4: For cluster 10: dispositivo blue tooth
+GPT-4: For cluster 15: i-pod, blue tooth audio
+GPT-4: For cluster 16: Audio Blue tooth
+Blue tooth Audio
+On tech Bluetooth Jig
+Amazon Echo
+GPT-4: For cluster 21: Blue tooth device
+GPT-4: For cluster 23: i-pod, U S B, blue tooth device
+GPT-4: For cluster 26: IPOD_~24LCF
+CD_REA~4LCF
+CD_REA~8LCF
+GPT-4: For cluster 27: i-pod, audio blue tooth
+GPT-4: For cluster 31: phone Blue tooth doit, phone mobile
+GPT-4: For cluster 32: iPod
+GPT-4: For cluster 37: U S B, auxiliar, mi m, I pod, audio bl
+GPT-4: For cluster 38: U S B, i-pod, blue tooth audio
+GPT-4: For cluster 40: Sirius Canal
+Sirius Chann
+iPhone de Ben
+GPT-4: For cluster 42: Adelcio Ipi
+GPT-4: For cluster 51: l'U S B, iPod
+GPT-4: For cluster 57: U_S_B, ipod
+GPT-4: For cluster 60: Autumn Zlepnig, Eduardo SLM
+GPT-4: For cluster 63: Por favor conecte el U S B.
+Por favor conecte el iPod.
+GPT-4: For cluster 95: Ronald Celular, Ademilson, Daniel Kansas
+GPT-4: For cluster 124: USB
+GPT-4: For cluster 136: Connected device: U S B
+GPT-4: For cluster 142: IPOD_~16LCF
+AUDIO_~5BIN
+GPT-4: For cluster 144: PHONE~25LCF
+GPT-4: For cluster 155: IPOD_~17LCF
+IPOD_~19LCF
+GPT-4: For cluster 157: IPOD_~22LCF
+IPOD_~23LCF
+GPT-4: For cluster 162: AUX_M~22LCF
+AUX_M~23LCF
+BT_MA~13LCF
+BT_MA~15LCF
+GPT-4: For cluster 165: <MP3CD-LIST>
+<MP3CD_~2LCF>
+<MP3CD_~6LCF>
+<BT_MA~17LCF>
+<RADIO_~6LCF>
+GPT-4: For cluster 168: BT_DIA~1LCF
+BT_DIA~2LCF
+BT_DIA~3LCF
+BT_DIA~4LCF
+IPOD_~15LCF
+PANDOR~4LCF
+RADIO_~2LCF
+GPT-4: For cluster 169: IPOD_M~6LCF
+GPT-4: For cluster 179: 'a-i-pod', 'u-e-se-be'
+GPT-4: For cluster 209: PHONE~21LCF, PHONE~22LCF, PHONE~26LCF, PHONE~28LCF, PHONE~30LCF
+GPT-4: For cluster 210: IPOD_M~7LCF
+GPT-4: For cluster 212: "ai-*pod", "blu-*tut", "te-"le-fo-no"
+GPT-4: For cluster 213: Y-Pad
+GPT-4: For cluster 216: Based on the data provided, we can identify the following device(s) connected to the infotainment system:
+
+- Y-Pad
+
+Other than that, no other specific device names or identifiers were found in the data.
+GPT-4: For cluster 218: AUX_M~25LCF
+AUX_M~26LCF
+AUX_M~29LCF
+IDLE_V~1LCF
+IPOD_M~1LCF
+MP3CD_~1LCF
+BT_SMS~1LCF
+IDLE_P~3LCF
+PHONEM~1LCF
+RADIO_~1LCF
+RADIO_~3LCF
+GPT-4: For cluster 222: ai-pod
+aw-djo-blu-tu-u-t
+te-le-fo-no
+GPT-4: For cluster 223: "Ai-pOd", "o-Djo-blu-tUt", "te-le-fOn"
+GPT-4: For cluster 230: BT-PHONEBOOK-NBEST
+BT-PHONEBOOK-NBEST-EXTENSION
+AUX_M~19LCF
+MYMUS~23LCF
+PANDOR~8LCF
+PHONE~19LCF
+PHONE~29LCF
+GPT-4: For cluster 234: IQS100190_02
+GPT-4: For cluster 239: "blu-*tu-"ut
+GPT-4: For cluster 242: Y-Pad, dIsk, sAN, Guk-baks
+GPT-4: For cluster 243: BT_MAI~1LCF
+GPT-4: For cluster 247: 'a-i-"pod'
+GPT-4: For cluster 248: SIRIUS~9LCF
+XM_MAI~9LCF
+IDLE_P~9LCF
+PANDOR~9LCF
+PHONE~18LCF
+GPT-4: For cluster 250: IPOD_M~9LCF
+GPT-4: For cluster 251: PANDORA-SORT
+SIRIUS~4LCF
+SIRIUS~5LCF
+SIRIUS~8LCF
+AUX_M~24LCF
+PANDOR~2LCF
+GPT-4: For cluster 252: A8516AD322C35FBC29E6EA99B859F36E
+B7BF8260E48FCE11E37A88186B0A19CE
+24D62CC0229288549864AC154E5C4A2E
+GPT-4: For cluster 257: IPOD_~10LCF
+GPT-4: For cluster 258: AUX_M~21LCF
+BT_MA~11LCF
+BT_MA~12LCF
+MYMUSI~1LCF
+MYMUS~18LCF
+MYMUS~19LCF
+MYMUS~21LCF
+MYMUS~22LCF
+MYMUS~24LCF
+BT_MA~14LCF
+BT_MA~16LCF
+BT_MA~18LCF
+MYMUS~26LCF
+MYMUS~27LCF
+MYMUS~29LCF
+MYMUS~30LCF
+GPT-4: For cluster 262: BT_MAI~6LCF
+BT_MA~10LCF
+GPT-4: For cluster 263: FD38199CCE810C9B33F94B2E631C12D1
+&5DE912B9748BDBF958C71700ECC1EA1D
+GPT-4: For cluster 266: IPOD_M~8LCF
+GPT-4: For cluster 274: BT_MAI~9LCF
+GPT-4: For cluster 275: YSnY*nYSnY*r
+Zarco-Gonzalez Jr.
+Ben Grasmeyer
+Devery Johnson
+Eder Stauffer
+GPT-4: For cluster 278: BT_SM~24LCF
+CD_REA~6LCF
+GPT-4: For cluster 280: EC824ACA31FB1, BC2862250D084E32C5257314557126C0, 9EFBF30FF0AA0AB9102E6E9022F31BC0, 94B685182B7F9F6ED1154AF9B0ECB2F3
+GPT-4: For cluster 282: USB_M~10LCF
+GPT-4: For cluster 284: 03ECBA7850D2
+GPT-4: For cluster 285: l'appareil connect
+GPT-4: For cluster 286: USB_M~12LCF
+SIRIUS~6LCF
+GPT-4: For cluster 292: Connected devices found in data:
+
+1. "PlJ-e"
+2. "seC-*"dIsk"
+3. "PlJ-*"Y-Pad"
+
+Just to note, there might be other devices but these are the ones I could clearly identify in the provided data.
+GPT-4: For cluster 299: Connected devices: 
+1. Metcalfe1223Pizz
+2. Prins-Gervais
+3. Zarco-Gonzalez
+4. Junior Bortolini
+GPT-4: For cluster 300: USB_MA~9LCF
+USB_M~11LCF
+USB_M~13LCF
+USB_M~14LCF
+USB_M~15LCF
+GPT-4: For cluster 301: BT_PH~18LCF
+GPT-4: For cluster 302: USB_LISTLCF
+GPT-4: For cluster 307: Christiano MUNDIAL
+Parpaiola ETEL
+QUICKD2 DAT
+
+JS br1508ro1503machado1504leo pmv1505nelsinho1506aracaju1507sergio
+GPT-4: For cluster 327: IPOD_~20LCF
+BT_VA~27LCF
+CD_REA~3LCF
+CD_RE~10LCF
+GPT-4: For cluster 328: dulo U_S_B
+GPT-4: For cluster 331: BT-SMS-CONTENT
+GPT-4: For cluster 332: IQS100174_01, IQS100171_01, IQS100183_02, IQS100164_01, IQS100181_01, IQS100171_02, IQS100172_01, IQS100172_01_y, IQS100172_02
+GPT-4: For cluster 334: BT_PH~17LCF
+GPT-4: For cluster 335: USB_MA~7LCF
+USB_MA~8LCF
+GPT-4: For cluster 339: Qwats70 Watson, Monette1281Sania1282Sp771283Tessa1284Zach1285Watson
+GPT-4: For cluster 344: AUX_M~20LCF
+PANDOR~3LCF
+GPT-4: For cluster 346: BT_PHO~1BIN
+BT_PH~12BIN
+PLISTI  DAT
+PHONEB1 DAT
+PHONEB3 DAT
+0Galaxy A5 (2017)
+GPT-4: For cluster 347: Based on the provided data, there are multiple device names found such as:
+
+- BT_MAI~7LCF
+- MP3CD_~3LCF
+- MYMUS~28LCF
+GPT-4: For cluster 356: USB_MA~4LCF
+PANDO~14LCF
+GPT-4: For cluster 358: USB_MA~3LCF
+USB_MA~5LCF
+XM_MAI~7LCF
+XM_MA~13LCF
+XM_MA~14LCF
+BT_VA~26LCF
+GPT-4: For cluster 362: MYMUS~20LCF
+MYMUS~25LCF
+E6E33CBB2D8B493
+CLC_SU~1DAT
+HELP_2~1RAW
+INPUTE~1RAW
+GPT-4: For cluster 372: USB_MA~1LCF
+AUX_MA~1LCF
+IPOD_~21LCF
+IPOD_~26LCF
+BT_PHO~1LCF
+BT_PH~21LCF
+CD_REA~1LCF
+GPT-4: For cluster 378: MP3CD_~8LCF
+MP3CD~10LCF
+MP3CD~13LCF
+MP3CD~14LCF
+MP3CD~15LCF
+GPT-4: For cluster 379: v2.0.3_vadvde
+IQS100173_01
+IQS100174_02
+IQS100185_02
+IQS15_0072
+IQS15_0071
+100193_02_C
+3CFFA30CBE22E20DC57F38FB00C97C88
+&3CFFA30CBE22E20DC57F38FB00C97C88
+GPT-4: For cluster 380: PHONE~10LCF
+GPT-4: For cluster 382: MYMUS~11LCF
+MYMUS~13LCF
+GPT-4: For cluster 390: USB-LIST
+VIRTUAL-SIMILAR
+BT-SMS-REPLY
+IPOD_~27LCF
+MP3CD_~7LCF
+BT_PH~22LCF
+IDLE_P~7LCF
+GPT-4: For cluster 392: BT_PH~15BIN
+DP_MA~22BIN
+DP_SE~20BIN
+GPT-4: For cluster 393: USB_MA~6LCF
+XM_MA~11LCF
+IPOD_~25LCF
+MP3CD_~5LCF
+CD_REA~5LCF
+GPT-4: For cluster 399: IPOD_~18LCF, MP3CD~11LCF, BT_VAD~1LCF

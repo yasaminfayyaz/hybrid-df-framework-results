@@ -1,0 +1,269 @@
+BERT: For cluster 18: tv / dvd
+BERT: For cluster 28: mapdownload
+BERT: For cluster 76: forensically relevant information
+BERT: For cluster 88: forensically relevant information
+BERT: For cluster 89: forensically relevant information
+BERT: For cluster 103: forensically relevant information
+BERT: For cluster 104: forensically relevant information
+BERT: For cluster 108: forensically relevant information
+BERT: For cluster 109: forensically relevant information
+BERT: For cluster 110: forensically relevant information
+BERT: For cluster 111: nothing
+BERT: For cluster 117: forensically relevant information
+BERT: For cluster 118: forensically relevant information
+BERT: For cluster 119: forensically relevant information
+BERT: For cluster 128: forensically relevant information
+BERT: For cluster 130: forensically relevant information
+BERT: For cluster 152: forensically relevant information
+BERT: For cluster 159: forensically relevant information
+BERT: For cluster 160: forensically relevant information
+BERT: For cluster 166: forensically relevant information
+BERT: For cluster 168: forensically relevant information
+BERT: For cluster 180: forensically relevant information
+BERT: For cluster 181: forensically relevant information
+BERT: For cluster 187: 00 aa 04 00 06 00 00 58 00 54 00 31 00 30 00 39 00 37 ff ff ff ff ff ff ff ff
+BERT: For cluster 190: software _ data _ matching
+BERT: For cluster 198: decoder
+BERT: For cluster 199: error
+BERT: For cluster 202: forensically relevant information
+BERT: For cluster 204: forensically relevant information
+BERT: For cluster 205: forensically relevant information
+BERT: For cluster 213: forensically relevant information
+BERT: For cluster 214: forensically relevant information
+BERT: For cluster 224: forensically relevant information
+BERT: For cluster 232: forensically relevant information
+BERT: For cluster 233: forensically relevant information
+BERT: For cluster 234: 00 a0 18 00
+BERT: For cluster 235: ' halfcheck _ state _ check _ ok
+BERT: For cluster 238: flashwrite error return of image % d '
+BERT: For cluster 242: ' getbackupinfoopeningbmp ( ) info table data error return ', ' getbackupinfoopeningbmp ( ) parameters error return ', ' fatgetexternalbuf : not empty err ', ' getbackupinfoopeningbmptelop ( ) info table data error return dram ', ' getbackupinfoopeningbmpfont ( ) info table data error return
+BERT: For cluster 244: getbackupinfoopeningbmptelop ( ) info table data error return
+BERT: For cluster 245: ' network loading error ', ' sd loading error ', ' disc loading error ', ' systemsd ( nk. bin ) loading error ', ' other cpu loading error '
+BERT: For cluster 248: ' flash erase error : % d ', ' address error!! ', ' flash verify error ', ' command error
+BERT: For cluster 249: ' error ; framing error ', ' error ; overrun error ', ' error ; parity error ', ' error ; datatogglemismatch error ', ' error ; bitstuffing error '
+BERT: For cluster 250: conditioncode : datatogglemismatch error
+BERT: For cluster 251: password length error
+BERT: For cluster 252: forensically relevant information
+BERT: For cluster 254: ' error ; unknown error ', ' unknown error ', ' : na3 error ; unknown error ', ' : n61 error ; unknown error ', ' : n60 error ; unknown error
+BERT: For cluster 255: ' subcpu error % s! ', ' error ; parameter error ', ' error ; rcv error retry - over ', ' error ; receive error ', ' error ; communication error ', ' error ; syntax error ', ' error ; check - sum error '
+BERT: For cluster 256: ' error ; data error ', ' error ; error bit ', ' : na3 error ; parameter error ', ' : n61 error ; check - sum error '
+BERT: For cluster 258: ' an error occurred. ', ' usb error root ', ' address error ', ' size error ', ' internal error '
+BERT: For cluster 259: syntax error ( not ' : ' ) ", " syntax error ( not ' / ' ) ", ' syntax error ( year ) ', ' syntax error ( not specified ) ', ' syntax error ( end or size ) '
+BERT: For cluster 261: syntax error
+BERT: For cluster 262: syntax error
+BERT: For cluster 263: ' rtc read error ', ' file write error ', ' ipl read error ', ' fat12 write error ', ' fat16 write error ', ' fat32 write error ', ' bpb read error '
+BERT: For cluster 264: ' fat12 read error ', ' fat16 read error ', ' fat32 read error ', ' directory write error ', ' directory read error ', ' file read error '
+BERT: For cluster 266: ' setbackupcondition ( ) error is % d ', ' subcpu _ recv _ directed _ message : receive error ', ' panel open error ', ' panel close error ', ' evqueput ( ) return of error % x ', ' usbddend : parameter handle error '
+BERT: For cluster 268: status error
+BERT: For cluster 269: parameter error ( minute ) ', ' parameter error ( second ) ', ' parameter error ( hour ) ', ' parameter error ( year ) ', ' parameter error ( month ) ', ' parameter error ( day ) ', ' parameter error
+BERT: For cluster 270: parameter error ( data ) ', ' parameter error ( bus width ) ', ' parameter error ( hex data ) ', ' parameter error ( range ) ', ' parameter error ( size ) ', ' parameter error ( end address ) '
+BERT: For cluster 271: forensically relevant information
+BERT: For cluster 276: error ; nak rcv retry - over ', ' error ; enq rcv retry - over ', ' : nb1 error ; scif communication error
+BERT: For cluster 277: ' error ; data no match
+BERT: For cluster 283: ' autorendering time - out ', ' trap wait time - out ', ' error ; receive time - out ', ' error ; cts off time - out ', ' cd - da play time - out '
+BERT: For cluster 286: fat32fsdread : @ @ @ errer eof
+BERT: For cluster 287: ' notsupport key request ', ' port connected, request reset ', ' subcpu _ seq _ inport _ req ( ) command send error
+BERT: For cluster 292: fat32fsdread : @ @ @ warnning read buffer
+BERT: For cluster 294: ' : n61 error ; all zero error ', ' : n61 error ; unknown cd
+BERT: For cluster 295: n61 ok
+BERT: For cluster 296: verify
+BERT: For cluster 300: ' error ; data not received ', ' error ; program loading failed ', ' error ; rtc read failed ', ' error ; adc i / f time - out ', ' error ; communication failed '
+BERT: For cluster 301: ' error ; fw ver not match ', ' error ; devver not match ', ' error ; endpoint is stalled ', ' error ; check epdesc failed ', ' error ; ed not alloc ', ' error ; td not alloc ', ' error ; hc init failed '
+BERT: For cluster 302: ' error ; port connect failed ', ' error ; flash erase failed ', ' error ; flash write failed ', ' error ; tx fifo not empty ', ' error ; illegal test mode ', ' : na3 error ; disc not exist ', ' : na3 ready '
+BERT: For cluster 304: ' msc bot data - in stage ng!! ', ' msc bot data - out stage ng!! '
+BERT: For cluster 307: error
+BERT: For cluster 318: av0 info
+BERT: For cluster 342: error
+BERT: For cluster 343: error
+BERT: For cluster 345: error ; bufferoverrun ', ' error ; dataunderrun ', ' error ; dataoverrun ', ' error ; unexpectedpid ', ' error ; devicenotrespond '
+BERT: For cluster 346: error
+BERT: For cluster 347: error
+BERT: For cluster 348: error
+BERT: For cluster 351: error
+BERT: For cluster 352: ' error ; signature illegal ', ' error ; illegal column value '
+BERT: For cluster 356: display
+BERT: For cluster 357: ' boot. bin '
+BERT: For cluster 358: ' asic eval int clear ', ' asic eval int set '
+BERT: For cluster 359: ' asic eval int status ', ' asic eval spi parameter 4 ( test mode ) ', ' asic eval spi parameter 3 ( master ch ) ', ' asic eval spi parameter 2 ( bps ) ', ' asic eval spi parameter 1 ( cr1 ) ', ' asic eval spi loop - back
+BERT: For cluster 360: ' asic eval uart loop - back ', ' gpio loopback input '
+BERT: For cluster 363: ' ccid read ', ' ccid write
+BERT: For cluster 364: ' tmu check ', ' usb host test
+BERT: For cluster 365: ' specified usb msc device not avairable ', ' fat top lba = % x ', ' melco rndis kitl for epson s1r72v17 '
+BERT: For cluster 366: ' usb check ', ' usb error ', ' usb sum err ', ' bluetooth
+BERT: For cluster 382: ' traffic ', ' music ', ' voice ', ' weather ', ' chemical brothers ', ' spandau ballet '
+BERT: For cluster 385: playlists
+BERT: For cluster 390: mf code % x
+BERT: For cluster 391: usb device speed : % d ', ' section length % x > total length % x ', ' talk cancel ', ' enter ', ' destination
+BERT: For cluster 392: device list
+BERT: For cluster 393: ' camera ', ' schedule ', ' system ', ' calculator ', ' telephone ', ' version '
+BERT: For cluster 394: ' freebuffer : check fails
+BERT: For cluster 395: unknown status
+BERT: For cluster 396: ' sram checksum set ', ' halfcheck _ state _ panel _ close retry over ', ' panel close wait ', ' panel open move ', ' halfcheck _ state _ panel _ open retry over ', ' updating hd microcomputer. '
+BERT: For cluster 401: duplicate ip address detected
+BERT: For cluster 402: ' no server process associated with file name % s ', ' tftpstatemachine : : tftp _ state _ close link deleted ', ' tftp error received from host % x - % s '
+BERT: For cluster 403: audio mcom version info '
+BERT: For cluster 405: facebook
+BERT: For cluster 410: maintenance
+BERT: For cluster 412: movies
+BERT: For cluster 413: directory
+BERT: For cluster 418: ethernet
+BERT: For cluster 425: ui _ backup _ data
+BERT: For cluster 429: ' func : disc _ read _ image
+BERT: For cluster 434: ' func : disc _ copy result
+BERT: For cluster 439: pcm mono / 11khz mutewave
+BERT: For cluster 442: ' model _ info
+BERT: For cluster 444: ' security _ bots ', ' sledger ', ' compasspanel ', ' musicfolder '
+BERT: For cluster 445: modelsetting
+BERT: For cluster 452: ' rndisprocesspacket : rndis _ uninitialized. ', ' sbce, 5 ', ' s1s1s '
+BERT: For cluster 454: rxline
+BERT: For cluster 457: ' com. lifevibes. trimapp '
+BERT: For cluster 463: ' sd _ unlock _ error
+BERT: For cluster 473: maploading _ status
+BERT: For cluster 491: error : subcpu _ error _ recv _ file _ send _ info
+BERT: For cluster 492: ' error : subcpu _ error _ recv _ file _ trans _ info ', ' error : subcpu _ error _ recv _ file _ send _ req ', ' error : subcpu _ error _ recv _ 5line _ status ', ' error : subcpu _ error _ send _ 5line _ cmd ', ' error : subcpu _ error _ recv _ download _ status
+BERT: For cluster 496: unknown
+BERT: For cluster 500: slloadingcheck : slsubcpuwakeupsequence result : % d ', ' slloadingcheck : subcpu _ sequence _ check _ next _ request ( ) error
+BERT: For cluster 501: ' writebinimage : success
+BERT: For cluster 505: ' conditioncode : bitstuffing error ', ' conditioncode : crc error ', ' conditioncode : no error
+BERT: For cluster 506: unsupport address : % x '
+BERT: For cluster 508: checksdcardimage : program info ok
+BERT: For cluster 510: unregistered key code
+BERT: For cluster 511: usb read : error
+BERT: For cluster 512: flash erase : address % x : length % x ', ' range
+BERT: For cluster 513: ' subcpu _ send _ cpu _ status : send error
+BERT: For cluster 514: ' subcpu _ send _ sendable _ flist _ info : send error
+BERT: For cluster 519: ' conditioncode : unexpectedpid
+BERT: For cluster 522: forensically relevant information
+BERT: For cluster 538: unknown download status
+BERT: For cluster 542: ' subcpu _ recv _ file _ send _ info : receive success ', ' subcpu _ recv _ file _ trans _ info : receive success
+BERT: For cluster 548: ' load memory ', ' calc sum memory ', ' fill memory ', ' dump memory '
+BERT: For cluster 549: illegal file name
+BERT: For cluster 550: ' read data ', ' usb communication check
+BERT: For cluster 551: ' sram check random data '
+BERT: For cluster 552: cache
+BERT: For cluster 554: ' sdram memory clear ', ' save memory ', ' kensaku ( search ) memory ', ' compare memory ', ' move ( copy ) memory ', ' patch memory ', ' cammue dump memory '
+BERT: For cluster 557: ' cammue register dump ', ' cd - rom read etc. '
+BERT: For cluster 558: ' flash erase ', ' flash access full ', ' flash access 1sector ', ' cpu version ', ' usb msc device insert, now checking usb file ', ' sd card check ok ; goto loading. '
+BERT: For cluster 559: ' illegal device
+BERT: For cluster 560: ' android ', ' gameloft ', ' ringtones ', ' offline ', ' image ', ' video ', ' games ', ' intro ', ' menus '
+BERT: For cluster 576: forensically relevant information
+BERT: For cluster 583: 1994 lifeforms 2 disks ) '
+BERT: For cluster 590: images
+BERT: For cluster 598: there were no options detected in the tftp
+BERT: For cluster 601: writesdcardimage ( ) success
+BERT: For cluster 603: rndis : : get mac address % x, % x, % x ', ' check endpointdescriptor failed
+BERT: For cluster 613: ' ethernetloadingmain ( ) : : a lan board was not found! ', ' target file not found
+BERT: For cluster 615: ' human _ interface not use '
+BERT: For cluster 616: sd _ checkcardinfo ( ) unknown card size. not supported
+BERT: For cluster 617: illegal tftp option - an option was detected but it was not the supported blksize option
+BERT: For cluster 618: ' source data is not bin format ', ' networklibprocess : lan board is not connect. ', ' current device not available ', ' not fat12 / 16 / 32 ipl ', ' not fat12 / 16 / 32 partition ', ' usb msc device not ready
+BERT: For cluster 619: ' directory not found ', ' medium is not removable ', ' medium is removable ', ' asic int not occured ', ' cl : naudioplayerdevicedshow : : play state not valid
+BERT: For cluster 620: ' moncreate open file name = % s ', ' file open failed ', ' delete file failed ', ' save file close failed ', ' save file open failed ', ' load file open failed '
+BERT: For cluster 623: get _ opening _ info ( ) not found of bmp data on flrom or addram
+BERT: For cluster 625: subcpu _ set _ next _ sequence _ info ( ) : unknown command 0x % b 0x % b
+BERT: For cluster 630: illegal cluster chain
+BERT: For cluster 639: ngetplayinfo : entry
+BERT: For cluster 643: not support cluster size '
+BERT: For cluster 648: genre
+BERT: For cluster 652: cprm key clear '
+BERT: For cluster 656: ' specified fat12 / 16 sram card not inserted ', ' specified fat12 / 16 / 32 sd card not inserted ', ' not write - protected
+BERT: For cluster 661: command list
+BERT: For cluster 662: loading info set
+BERT: For cluster 663: data too long
+BERT: For cluster 665: updating the dtv programme. ', ' updating the application programme. ', ' updating the can box programme. ', ' updating the loader. ', ' updating the main cpu. ', ' updating the display
+BERT: For cluster 670: iso9660 error log out. mode is % s, code is 0x % x. ', ' block _ size is 0. ', " the packet ' s option name is % s. "
+BERT: For cluster 674: ' rtc date / time get ', ' rtc date / time set ', ' plane scroll ', ' nr - 242 middle check ver0. 26 '
+BERT: For cluster 676: ' loading condition : loading switch is on ', ' loading condition : loading request is true ', ' loading condition : backup loading info data is error
+BERT: For cluster 679: the programme is corrupted
+BERT: For cluster 684: ' directory read error ( 1 ) ', ' directory read error ( 0 ) '
+BERT: For cluster 691: loadsdcardimagesd0 ( ) found the data of loader font data on fl - rom
+BERT: For cluster 692: loadsdcardimagesd0 ( ) found the data of indicateimage on fl - rom. not move to fl - rom ', ' loadsdcardimagesd0 ( ) found the data of telopimage on fl - rom. not move to fl - rom ', ' loadsdcardimagesd0 ( ) found the data of image on fl - rom. not move to fl - rom ', ' read from device
+BERT: For cluster 693: ' key data not found ', ' not - key data not found
+BERT: For cluster 707: ' shcm6 ', ' sjci5 '
+BERT: For cluster 709: bbc
+BERT: For cluster 724: contacts
+BERT: For cluster 726: videos
+BERT: For cluster 729: android _ secure ', ' com. geico. mobile ', ' com. htc. musicenhancer ', ' com. wildtangent. android
+BERT: For cluster 731: forensically relevant information
+BERT: For cluster 733: ' gpio - 1 input ', ' gpio - 0 input ', ' ex gpio - 3 output ', ' ex gpio - 2 output ', ' ex gpio - 1 output ', ' gpio - 3 output ', ' gpio - 2 output ', ' gpio - 1 output
+BERT: For cluster 734: streams
+BERT: For cluster 737: masc _ systemparam _ info
+BERT: For cluster 745: sub _ title _ jp _ image
+BERT: For cluster 752: ' func : disc _ write _ image
+BERT: For cluster 755: \ \ usb \ \ nk. bin
+BERT: For cluster 758: ' target _ name ', ' ui _ diag _ serial _ no ', ', ui _ hmi _ secure
+BERT: For cluster 761: ' lights. mp3
+BERT: For cluster 770: font _ info _ image. mp3 ', ' igp _ hud _ image. mp3 ', ' image. mp3
+BERT: For cluster 775: amazon. mp3
+BERT: For cluster 782: invalid block num 0x % x ', ' fl - rom table info
+BERT: For cluster 783: loadsdcardimage ( ) backuped size ( 0x % x ) error
+BERT: For cluster 788: writesdcardimage
+BERT: For cluster 806: fat _ search
+BERT: For cluster 810: devlist
+BERT: For cluster 812: com. vertifi. deposzip. p314089681
+BERT: For cluster 822: forensically relevant information
+BERT: For cluster 823: forensically relevant information
+BERT: For cluster 830: ' \ \ hdd \ \ nk. bin
+BERT: For cluster 839: ' com. picsart. studio ', ' rtmap
+BERT: For cluster 847: font _ info _ jp _ image. mp3
+BERT: For cluster 907: forensically relevant information
+BERT: For cluster 910: 0c 00 24 00 00 23 00 00 16 00 00 01 01
+BERT: For cluster 914: forensically relevant information
+BERT: For cluster 915: forensically relevant information
+BERT: For cluster 917: 03 06 24 00 00 1b 23 06 06 00 00 01
+BERT: For cluster 918: forensically relevant information
+BERT: For cluster 936: forensically relevant information
+BERT: For cluster 946: forensically relevant information
+BERT: For cluster 952: 03 06 24 00 00 1a 23 06 06 00 00 01
+BERT: For cluster 970: 0c 00 24 00 00 24 00 00 16 00 00 01 04
+BERT: For cluster 979: media
+BERT: For cluster 984: forensically relevant information
+BERT: For cluster 985: forensically relevant information
+BERT: For cluster 986: forensically relevant information
+BERT: For cluster 989: moral ki
+BERT: For cluster 1004: audm rcv data
+BERT: For cluster 1005: ' phonebook '
+BERT: For cluster 1008: rndis : : invalid
+BERT: For cluster 1009: found signature
+BERT: For cluster 1017: rtp _ rcd '
+BERT: For cluster 1019: 1991 papua new guinea
+BERT: For cluster 1032: data _ in stall claer!! ', ' data _ out stall claer!! '
+BERT: For cluster 1045: ' artist ', ' cl : naudioplayermanagerthread : : ongetplayinfo : entry
+BERT: For cluster 1046: run reply sanity
+BERT: For cluster 1047: psxoid
+BERT: For cluster 1080: ' select sd ', ' select disc ', ' select disc only ', ' select ata card only ', ' select hdd only ', ' select sd only ', ' select usb only ', ' select ethernet only '
+BERT: For cluster 1083: forensically relevant information
+BERT: For cluster 1085: ' vermont ', ' washington ', ' wyoming '
+BERT: For cluster 1090: veracruz
+BERT: For cluster 1093: ' read image
+BERT: For cluster 1094: video ', ' music
+BERT: For cluster 1102: ' browser - photos
+BERT: For cluster 1105: bad telop id! '
+BERT: For cluster 1107: aplmdl _ info affter data
+BERT: For cluster 1112: ' istmain _ txrx : detect other device interupt ', ' skcll '
+BERT: For cluster 1115: error
+BERT: For cluster 1116: 7ui _ av _ secure
+BERT: For cluster 1121: ' lost. dir ', ' com. mediocre. smashhit ', ' eu. music. download. paradise '
+BERT: For cluster 1122: usb
+BERT: For cluster 1126: wmasc _ systemparam _ info
+BERT: For cluster 1137: trace
+BERT: For cluster 1139: cutscenes
+BERT: For cluster 1143: canvehicle _ data
+BERT: For cluster 1148: ' sd _ write _ error
+BERT: For cluster 1150: ' ui _ diag _ error
+BERT: For cluster 1179: ' drv _ sddrv _ read ', ' drv _ sddrv _ start ', ' drv _ sddrv _ stop ', ' drv _ sddrv _ close ', ' drv _ sddrv _ init '
+BERT: For cluster 1182: carstat
+BERT: For cluster 1188: nr - 242 ver0. 26
+BERT: For cluster 1190: ' @ xttt ', ' 101msdcf '
+BERT: For cluster 1201: ' disconnected!! ', ' usbddwrite
+BERT: For cluster 1202: ' checksdcardimage info _ sum error
+BERT: For cluster 1204: playstatus picturechanged
+BERT: For cluster 1211: ' com. facebook. katana ', ' com. vcast. mediamanager '
+BERT: For cluster 1212: ' basic _ moves ', ' guidemap ', ' mapupdate '
+BERT: For cluster 1277: ' call writebinimage ( ) = flash _ write _ fault
+BERT: For cluster 1293: nk. bin
+BERT: For cluster 1350: ' [ sd ] sd _ init : found signature
+BERT: For cluster 1370: forensically relevant information
+BERT: For cluster 1371: forensically relevant information
+BERT: For cluster 1372: forensically relevant information
+BERT: For cluster 1423: ' @ createimagechecksum ng ', ' @ writebinimage ng '

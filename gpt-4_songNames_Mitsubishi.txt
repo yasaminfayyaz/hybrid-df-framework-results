@@ -1,0 +1,107 @@
+GPT-4: For cluster 6: Song names present in data:
+
+1. Ride
+2. Twenty One Pilots
+GPT-4: For cluster 7: Game FT
+GPT-4: For cluster 10: KMFDM - Angst - 01 - Light
+KMFDM - Angst - 02 - A Drug Aga
+KMFDM - Angst - 03 - Blood Evil
+KMFDM - Angst - 04 - Lust
+KMFDM - Angst - 05 - Glory
+KMFDM - Angst - 06 - Move On
+KMFDM - Angst - 07 - No Peace
+KMFDM - Angst - 08 - A Hole in
+KMFDM - Angst - 09 - Sucks
+KMFDM - Angst - 10 - The Proble
+Kraftwerk - The Mix - 01 - The
+Kraftwerk - The Mix - 02 - Comp
+Kraftwerk - The Mix - 03 - Pock
+Kraftwerk - The Mix - 04 - Dent
+Kraftwerk - The Mix - 05 - Auto
+Kraftwerk - The Mix - 06 - Radi
+Kraftwerk - The Mix - 07 - Tran
+Kraftwerk - The Mix - 08 - Abzu
+Kraftwerk - The Mix - 09 - Meta
+Kraftwerk - The Mix - 10 - Home
+Kraftwerk - The Mix - 11 - Musi
+Lords of Acid - Farstucker - 01
+Lords of Acid - Farstucker - 02
+Lords of Acid - Farstucker - 03
+Lords of Acid - Farstucker - 04
+Lords of Acid - Farstucker - 05
+Lords of Acid - Farstucker - 06
+Lords of Acid - Farstucker - 07
+Lords of Acid - Farstucker - 08
+Lords of Acid - Farstucker - 09
+Lords of Acid - Farstucker - 10
+Lords of Acid - Farstucker - 11
+Lords of Acid - Farstucker - 12
+Lords of Acid - Farstucker - 13
+Lords of Acid - Farstucker - 14
+Lords of Acid - Farstucker - 15
+Lords of Acid - Farstucker - 16
+Lords of Acid - Farstucker - 17
+Lords of Acid - Farstucker - 18
+Lords of Acid - Farstucker - 19
+R.E.M. - Murmur - 01 - Radio Fr
+R.E.M. - Murmur - 02 - Pilgrima
+R.E.M. - Murmur - 03 - Laughing
+R.E.M. - Murmur - 04 - Talk Abo
+R.E.M. - Murmur - 05 - Moral Ki
+R.E.M. - Murmur - 06 - Perfect
+R.E.M. - Murmur - 07 - Catapult
+R.E.M. - Murmur - 08 - Sitting
+R.E.M. - Murmur - 09 - 9-9
+R.E.M. - Murmur - 10 - Shaking
+R.E.M. - Murmur - 11 - We Walk
+R.E.M. - Murmur - 12 - West of
+Spandau Ballet - True - 01 - Co
+Spandau Ballet - True - 02 - Pl
+Spandau Ballet - True - 03 - Co
+Spandau Ballet - True - 04 - Go
+Spandau Ballet - True - 05 - Li
+Spandau Ballet - True - 06 - He
+Spandau Ballet - True - 07 - Fo
+Spandau Ballet - True - 08 - Tr
+The Cure - Bloodflowers - 01 -
+The Cure - Bloodflowers - 02 -
+The Cure - Bloodflowers - 03 -
+The Cure - Bloodflowers - 04 -
+The Cure - Bloodflowers - 05 -
+The Cure - Bloodflowers - 07 -
+The Cure - Bloodflowers - 08 -
+The Cure - Bloodflowers - 09 -
+Track 03
+GPT-4: For cluster 16: com.roostergames.hillclimbtruckracing3
+com.sony.singstar
+GPT-4: For cluster 47: All Me (feat. 2 Chainz & Big Sean).mp3
+Bob Marley - Pimpers Paradise .mp3
+Schism   Tool   Lateralus.mp3
+GPT-4: For cluster 49: KMFDM
+GPT-4: For cluster 62: 2002 Come with Us
+Lifeforms (1 of 2)
+Lifeforms (2 of 2)
+GPT-4: For cluster 68: 1994 Lifeforms 2 disks
+GPT-4: For cluster 73: 1993 Angst
+2000 Farstucker
+1983 Murmur
+1983 True
+2000 Bloodflowers
+1994 Lifeforms
+GPT-4: For cluster 80: font_hud_image.mp3
+font_info_image.mp3
+font_title_image.mp3
+font_title_kr_image.mp3
+igp_hud_image.mp3
+GPT-4: For cluster 91: MASC_Folder01
+MASC_Folder03
+MASC_MusicDB03_1
+MASC_MusicDB03_2
+GPT-4: For cluster 92: Song Name: Schism
+Artist: Tool
+Album: Lateralus
+GPT-4: For cluster 99: Lights.mp3
+GPT-4: For cluster 104: SiCh
+GPT-4: For cluster 107: Schism   Tool   Lateralus.mp3
+GPT-4: For cluster 117: image.mp3
+GPT-4: For cluster 123: 1991 Papua New Guinea

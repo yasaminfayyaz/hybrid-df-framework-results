@@ -1,0 +1,92 @@
+DAVINCI: For cluster 17: Timestamps: 16/04/28 20:33:26, 16/04/28 20:33:27, 16/04/28 20:33:28
+Processes: NEVENTWATCHER.EXE, NAVI.EXE, DIAG.EXE
+Event IDs: 65, 21
+Information: 6(0x00000006), 0(0x00000000), 0(0x00000000)
+DAVINCI: For cluster 18: Timestamps: 16/04/28 20:33:29, 16/04/28 20:33:30, 16/04/28 20:33:31
+Processes: NEVENTWATCHER.EXE, DIAG.EXE, NAVI.EXE
+Error codes: 0x01100000, 0x00000006, 0x00000000
+DAVINCI: For cluster 19: Timestamps: 16/04/28 20:33:31, 16/04/28 20:33:32, 16/04/28 20:33:33, 16/04/28 20:33:34
+Processes: NEVENTWATCHER.EXE, DIAG.EXE, NAVI.EXE
+Error codes: 0x01100000, 0x00000006, 0x00000000
+DAVINCI: For cluster 20: Timestamps: 16/04/28 20:33:34, 16/04/28 20:33:35, 16/04/28 20:33:36
+Processes: NEVENTWATCHER.EXE, DIAG.EXE, NAVI.EXE
+Event IDs: 65, 21
+Information codes: 6(0x00000006), 0(0x00000000), 0(0x00000000)
+DAVINCI: For cluster 21: Timestamps: 16/04/28 20:33:37, 16/04/28 20:33:38, 16/04/28 20:33:39
+Processes: NEVENTWATCHER.EXE, DIAG.EXE, NAVI.EXE
+Error codes: 0x01100000, 0x00000006, 0x00000000
+DAVINCI: For cluster 22: Timestamps: 16/04/28 20:33:39, 16/04/28 20:33:40, 16/04/28 20:33:41, 16/04/28 20:33:42
+Processes: NEVENTWATCHER.EXE, NAVI.EXE, DIAG.EXE
+Error codes: 0x01100000, 0x00000006, 0x00000000
+Event IDs: 65, 21
+DAVINCI: For cluster 23: Timestamps: 16/04/28 20:33:42, 16/04/28 20:33:43
+Processes: NEVENTWATCHER.EXE, DIAG.EXE, NAVI.EXE
+Event IDs: 21, 65
+Error codes: 6(0x00000006), 0(0x00000000), 0(0x00000000)
+DAVINCI: For cluster 24: TIDs (Thread Identifiers): 87561430, 87561434, 119473854, 119539094, 133694834, 100795810, 112592566, 97062334, 129238894, 131205038, 12511058, 125437890, 104532398, 104598138, 112200254
+ThreadPriority: 0x8A
+DAVINCI: For cluster 34: Timestamps, file names, process IDs, warning codes, and system error codes.
+DAVINCI: For cluster 43: Timestamps, command codes, command bytes, data bytes.
+DAVINCI: For cluster 84: Forensically relevant information:
+boot.bin, octet, USB CHECK, USB ERROR, USB Sum Err, SD Sum Err, RNDISMINI --- RESET ---, RNDISMINI Err!! unsupported RNDIS host ver., Invalid CPU = %x, MSC BOT  CBW transmit NG !!, !CheckUDP: UDP header checksum failure, !CheckUDP: IP header checksum failure.
+DAVINCI: For cluster 86: Dest IP %s Port %H, Src IP %s Port %H, ASIC Eval INT clear, ASIC Eval INT set, ASIC Eval INT status, ASIC Eval SPI parameter 4(test mode), ASIC Eval SPI parameter 3(master Ch), ASIC Eval SPI parameter 2(BPS), ASIC Eval SPI parameter 1(CR1), ASIC Eval SPI loop-back, ASIC Eval UART parameter 4(test mode), ASIC Eval UART parameter 3(Channel), ASIC Eval UART parameter 2(BPS), ASIC Eval UART parameter 1(LCR), ASIC Eval UART loop-back, GPIO loopback Input, GPIO loopback Output, WDT reset, SCIF loop-back, SPI FIFO disable mode Master ch%d, SPI FIFO enable, Manual CS mode  Master ch%d, SPI FIFO enable, Auto CS mode  Master ch%d, UART FIFO disable mode  ch%d->%d, UART FIFO enable, RTS disable mode  ch%d->%d, UART FIFO & RTS enable mode  ch%d->%d, cq\,WD, KeyPad.
+DAVINCI: For cluster 87: Bluetooth: The police may be able to use Bluetooth to determine if any devices were connected to the computer.
+
+NetConnect: The police may be able to use NetConnect to determine if the computer was connected to any networks.
+DAVINCI: For cluster 122: Forensically relevant information: None
+DAVINCI: For cluster 143: $H, $R, $U Pictures.
+DAVINCI: For cluster 161: Forensically relevant information: None
+DAVINCI: For cluster 180: Forensically relevant information: None
+DAVINCI: For cluster 205: Forensically relevant information:
+MMC13, SD_PRG_NON, Sb!c8#, Fh&), "#rcbd, |gq$@, ",b#aM, +C"d, r0!#cL37, b&O02, Cb=B#c, !c=c3a, &c"b4, <c0+K, <c0"q, sjckSl\, #c(C&, 9"("6, 9"("A, C<:#c, #i(I<c, FaFbFc, l5+E, "#d#e#f#g#h#iH, opst[FS/RS], opst[AUTO PAUSE], opst[STOP], opst[EJECT], CAN., LSTER(1), \HDD\NK.BIN, %s:*** MONdeviceIOControl NG=%X, MMC13.BACK.BMP, shcjSk, #h#hy([(l222.
+DAVINCI: For cluster 228: Timestamps, command codes, data lengths, data bytes, data values
+DAVINCI: For cluster 232: Timestamps, command codes, data lengths, data bytes, and data values.
+DAVINCI: For cluster 233: Timestamps, command codes, data lengths, data bytes, and data values.
+DAVINCI: For cluster 237: Command (Cmd): 6130, Command Data Block (CdB): 28, Data: 2C AA 95, 12/07/25, 1D/1C, 0E/02, 04/06, 04/03, 20, 04, 1D/05/06/0D, 10, 01/02, 00, 00, 00, 00, 00, 00, 00, 00, 00, 00, FF FF FF, 01
+DAVINCI: For cluster 289: INFO;NR-242 VER0.26
+DAVINCI: For cluster 299: fcb#cSd0sDa, tbc+#2&, r"#R"mb2d, sr!#a81, sjclShCiy, Mb("A, S2(bc7, ;$Bb9, 3Ps2c, 3xs2c8#, ?ShCi, RTG_DAT, PDM_DAT, CANVEHICLE_DATA, P4sj;, &biA}, 5bgB)4, uSC'@, FKjQ+, YFBo0, K/iB:, ]*A/!, SoundRecorder, com.facebook.katana, com.hellotext.hello, %com.tigerfinancial.mobile.speedycash, flipboard.app, ImageLoader, DownloadRingtone, com.keramidas.TitaniumBackup, browser-photos, AudioFiles, AVMain, TelematicsLog.
+DAVINCI: For cluster 304: TFTP link[%u]: State:%u, DestAddr.wPort: %u, SrcAddr.wPort: %u, B000FF, CheckSdCardImage info_sum Error!, LoadSdCardImage info_sum Error!, KITL PDDInit UfnPdd_Start() USB NO CONNECT!!, Sb"QF1, Q<2"c, 9%cc,C, c#s a!y0, Ta2bT, (B+#6, s3b c<cp3, =DScI#8#, F'&<<<&DH, IDH9Y, j1EDDDDDDDD&J, EPlkllllllllllllllllljd, JIGGPIOOUT, RE-BOOT (backup & reset), Error; Adrs=, >p~d+, [SD][ERROR]Sd_UnlockPasswd(#%d) Error! (returnCode=0x%X) %dth retry, B"cdb", r"$ b(" , <b("v, a81
+DAVINCI: For cluster 308: Timestamps: 16/04/28 20:33:25, 16/04/28 20:33:27, 16/04/28 20:33:28, 16/04/28 20:33:30, 16/04/28 20:33:33, 16/04/28 20:33:34 (x2), 16/04/28 20:33:34
+
+Processes: NEVENTWATCHER.EXE, DIAG.EXE, AV.EXE
+
+Error codes: 0x01100000, 0x01000000
+
+Event IDs: 320, 32
+DAVINCI: For cluster 309: Timestamps: 16/04/28 20:33:35 - 16/04/28 20:33:42
+Processes: NEVENTWATCHER.EXE, AV.EXE
+Error ID: 320
+Error Info: 6(0x00000006), 0(0x00000000), 0(0x00000000)
+DAVINCI: For cluster 331: Timestamps: 16/07/08 14:35:52, 16/07/08 14:36:00
+Process names: HMIMANAGER.EXE, AV.EXE
+Event handler types: 0, 2, 1
+Passed tick times: 1144, 1385, 75, 71, 85, 55, 59
+Passed thread times: 21, 5, 3, 4, 4, 1, 2
+DAVINCI: For cluster 332: None - there is no forensically relevant information present in this data.
+DAVINCI: For cluster 333: Timestamps: 17/01/17 15:24:10, 17/01/17 15:24:11
+Process names: AV.EXE, HMIMANAGER.EXE, NAVI.EXE, COMMUNICATION.EXE
+PassedTickTime values: 117, 62, 71, 133, 121, 52, 62
+PassedThreadTime values: 1, 1, 1, 1, 1, 1, 2
+DAVINCI: For cluster 334: Timestamps: 17/01/17 15:24:11, 17/01/17 15:24:12
+Process names: COMMUNICATION.EXE, AV.EXE, NAVI.EXE, HMIMANAGER.EXE
+PassedTickTime values: 143, 234, 53, 84, 78, 56, 86
+PassedThreadTime values: 0, 4, 0, 6, 7, 3, 4
+DAVINCI: For cluster 335: Timestamps: 17/01/17 15:24:12, 17/01/17 15:24:13
+Process names: COMMUNICATION.EXE, AV.EXE, HMIMANAGER.EXE
+Process IDs: 5710046, 43C002A, 51A001E
+Event Handler Types: 0, 2
+Event Types: 0x0, 0x140
+Passed Tick Times: 90, 101, 88, 257, 256, 299, 109
+Passed Thread Times: 0, 3, 2, 13, 5, 5, 6
+DAVINCI: For cluster 336: Timestamps: 17/01/17 15:24:13 
+Warning 0x01100000 
+Process names: COMMUNICATION.EXE, AV.EXE, HMIMANAGER.EXE, NAVI.EXE 
+PassedTickTime: 102, 117, 227, 195, 148, 242, 101 
+PassedThreadTime: 1, 2, 8, 1, 1, 4, 4 
+inf: 0(0x00000000), 0(0x00000000), 0(0x00000000)
+DAVINCI: For cluster 337: Timestamps: 17/01/17 15:24:13, 17/01/17 15:24:14
+Process names: COMMUNICATION.EXE, AV.EXE, HMIMANAGER.EXE
+Process IDs: 5710046, 43C002A, 51A001E
+PassedTickTime values: 97, 108, 100, 103, 107, 91, 93
+PassedThreadTime values: 1, 2, 5, 2, 2, 3, 2
+DAVINCI: For cluster 366: start_time, rcv_time, Launch, playtype, Fat_ClusterChk() Over, Max, ERR_DVD_Non, ERR_DVD_Read, ERR_DVD_Eject, ERR_DVD_Sum, ERR_SDC_Non, ERR_SDC_Init, ERR_SDC_Read, ERR_SDC_Eject, ERR_SDC_Sum, ERR_USB_Non, ERR_USB_Read, ERR_USB_Eject, ERR_USB_Ovc, ERR_USB_Sum, Overrun, READ_BL_LEN, C_SIZE

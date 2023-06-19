@@ -1,0 +1,38 @@
+DAVINCI: For cluster 7: Device 3: VMem: 4288KB(+0KB), NMem: 0KB(0), NPrc: 320KB(5), NExMem: 0KB(0), NExPrc: 0KB(0)
+Device 4: VMem: 38144KB(+0KB), NMem: 0KB(0), NPrc: 320KB(5), NExMem: 0KB(0), NExPrc: 0KB(0)
+Device 6: VMem: 93184KB(+0KB), NMem: 0KB(0), NPrc: 4544KB(17), NExMem: 0KB(0), NExPrc: 0KB(0)
+DAVINCI: For cluster 32: NAudioAnalyzerDevice: PROC:03AE0006 ThreadID:07680982
+DAVINCI: For cluster 81: Slave devices: RXHA, RXEM, RXOO, RXFU
+Master devices: TXFU, TXHA, TXEM, RXFU, RXHA, TXFN, TXENB, slave init TXFU, slave init TXHA
+DAVINCI: For cluster 85: #1  : ATA card (DEBUG board upper)
+#2  : ATA card (DEBUG board lower)
+#4  : SRAM card (DEBUG board upper)
+#5  : SRAM card (DEBUG board lower)
+#6  : SD card slot0
+#7  : SD card slot1
+Specified USB MSC device not available
+DAVINCI: For cluster 97: Device AutoSelect, HD Radio, Connected !!, Device list, current Device, Vehicle Speed Pulse check, Video Input, Playlists, Podcast, Public, Camera, Facebook, Maintenance, Schedule, System, Voice, Calculator, Radio, Telephone, Guide, Route, Weather, Version
+DAVINCI: For cluster 121: #100 : USB MassStorage Unit 0
+#101 : USB MassStorage Unit 1
+#102 : USB MassStorage Unit 2
+#103 : USB MassStorage Unit 3
+#104 : USB MassStorage Unit 4
+#105 : USB MassStorage Unit 5
+#106 : USB MassStorage Unit 6
+#107 : USB MassStorage Unit 7
+#10 : HDD partition 1
+#11 : HDD partition 2
+#12 : HDD partition 3
+#13 : HDD partition 4
+#14 : HDD partition 5
+#15 : HDD partition 6
+#16 : HDD partition 7
+#17 : HDD partition 8
+DAVINCI: For cluster 173: AF.FreePos.00.00, TAF.FreePos.00.00, HAF.FreePos.00.00, jAF.FreePos.00.00, bAF.FreePos.00.00
+DAVINCI: For cluster 289: INFO;NR-242 VER0.26
+DAVINCI: For cluster 365: Devices connected to this infotainment system:
+- Nak
+- Err
+- Media (DISC, HDD, USB, SD, NaviCore > SD, MASC)
+- CPU (ALL, HDBBP, HDM, CANBOX, SDARS, DTV, DV4, NaviSub nvs, MASC msc, Display dis, Navicore kwi, Main aud, EXT DwonLoad)
+- Default

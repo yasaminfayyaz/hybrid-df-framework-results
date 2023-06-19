@@ -1,0 +1,38 @@
+BERT: For cluster 28: mapdownload
+BERT: For cluster 129: 28 data : 00
+BERT: For cluster 137: 456789 : ; < = >? @ abcde
+BERT: For cluster 167: australia
+BERT: For cluster 323: ' xttt8 '
+BERT: For cluster 385: playlists
+BERT: For cluster 392: device list
+BERT: For cluster 405: facebook
+BERT: For cluster 412: movies
+BERT: For cluster 512: range
+BERT: For cluster 564: themes
+BERT: For cluster 592: bc ) # 8
+BERT: For cluster 661: command list
+BERT: For cluster 725: maps
+BERT: For cluster 726: google. android. videos ', ' com. google. android. youtube
+BERT: For cluster 734: streams
+BERT: For cluster 772: paradise
+BERT: For cluster 775: amazon. mp3
+BERT: For cluster 839: navicorej3 ( sh7777 / sh4a ) ', ' com. picsart. studio ', ' rtmap
+BERT: For cluster 899: 28 data : 03 06 24 00 00 59 59 06 06 00 00 01
+BERT: For cluster 909: 28
+BERT: For cluster 910: 44 data : 0c 00 24 00 00 23 00 00 16 00 00 01 01
+BERT: For cluster 917: 03 06 24 00 00 1b 23 06 06 00 00 01
+BERT: For cluster 940: 28
+BERT: For cluster 947: 28
+BERT: For cluster 952: 03 06 24 00 00 1a 23 06 06 00 00 01
+BERT: For cluster 964: 28 data : 03 87 24 02 00 5b 2d 04 16 01 00 01 01 2d 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 02 00 00 03 00 00 00 00 00 00 00 2d 11
+BERT: For cluster 970: 44 data : 0c 00 24 00 00 24 00 00 16 00 00 01 04
+BERT: For cluster 989: moral ki
+BERT: For cluster 1005: [ ' r0 0 " ', ' " c2c3 ', '. data ', ' user1 ', ' user2 ', ' phonebook '
+BERT: For cluster 1019: 1991 papua new guinea
+BERT: For cluster 1039: # 1
+BERT: For cluster 1085: vermont ', ' washington ', ' wyoming '
+BERT: For cluster 1090: veracruz
+BERT: For cluster 1190: ' @ xttt ', ' 101msdcf '
+BERT: For cluster 1211: ' com. facebook. katana ', ' com. vcast. mediamanager '
+BERT: For cluster 1212: mapupdate '
+BERT: For cluster 1471: overrun

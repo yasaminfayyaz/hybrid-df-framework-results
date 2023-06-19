@@ -1,0 +1,113 @@
+GPT-4: For cluster 1: montpelier
+GPT-4: For cluster 2: au bureau
+GPT-4: For cluster 3: ancienne route, montgomery, saint paul, saint petersburg, baton rouge
+GPT-4: For cluster 5: Sherbrooke
+GPT-4: For cluster 13: los angeles, paseo triunfo
+GPT-4: For cluster 16: Paradiso Pizza Road, Road Paradiso Pizza, From Lisgar
+GPT-4: For cluster 22: long beach, long island
+GPT-4: For cluster 26: sioux falls, southfield, springfield, indianapolis, beverly hills, kansas city, new orleans, orange park, pennsylvania
+GPT-4: For cluster 33: 55 35 33 21 13 22
+186
+l ciento_setenta-y-cuatro
+GPT-4: For cluster 34: eduardo st lawrence
+GPT-4: For cluster 37: E-vri-ba-Ri, tswa( pula
+GPT-4: For cluster 38: Keila - Tel SLM
+GPT-4: For cluster 40: Sirius Canal, North Carolina, California, British Columbia, Connecticut, Sherbrooke, Montreal, Calgary, Lisgar, Falling Waters Campsite, St Lawrence
+GPT-4: For cluster 42: Adelcio Ipi, Cei Nasareno, Nasareno Cei, io Militao, ra Portalski, lei Norsul, mianren chen
+GPT-4: For cluster 45: Colombia, Brasil, Rio Grande, Paranagua, Bahia
+GPT-4: For cluster 64: Nueva Guinea
+San Francisco
+Sacramento
+San Antonio
+GPT-4: For cluster 95: Kansas
+GPT-4: For cluster 98: Oklahoma
+GPT-4: For cluster 106: Based on the given data, we can identify the following geographical location: 
+X M Canal
+GPT-4: For cluster 131: DUB, FRF
+GPT-4: For cluster 136: . U S Highway
+GPT-4: For cluster 142: Jus.ku.la
+GPT-4: For cluster 150: aracaju
+GPT-4: For cluster 165: Jus.ku.la
+GPT-4: For cluster 177: Mexican Spanish, Canadian French, American English
+GPT-4: For cluster 178: Mexican Spanish
+GPT-4: For cluster 180: Stjân, Bar, Bo, Bran, Eld, Gâbrî
+GPT-4: For cluster 188: Metcalfe
+GPT-4: For cluster 206: Jus.ku.la
+GPT-4: For cluster 212: Ja-ma-das
+GPT-4: For cluster 216: Seville, Spain, Albuquerque, New Mexico, and Paris, France
+GPT-4: For cluster 220: aracaju
+GPT-4: For cluster 231: aracaju
+GPT-4: For cluster 237: Jus.ku.la
+GPT-4: For cluster 239: aracaju
+GPT-4: For cluster 249: supermanzana
+GPT-4: For cluster 250: Ravanellos
+GPT-4: For cluster 251: Jus.ku.la
+GPT-4: For cluster 255: Jus.ku.la
+GPT-4: For cluster 257: Tia Meinha
+GPT-4: For cluster 260: Cocopaving
+GPT-4: For cluster 275: Zarco-Gonzalez Jr., Ben Grasmeyer, Devery Johnson, Eder Stauffer
+GPT-4: For cluster 279: Monette, Sania, Tessa, Zach, Watson, chen, mianren, li, yuzh
+GPT-4: For cluster 281: aracaju
+GPT-4: For cluster 282: Llamar Internacional
+GPT-4: For cluster 283: Montreal, Calgary, Brasilia, Kingston, Orlando, Canada
+GPT-4: For cluster 285: Contabil Quantum
+Crislei Quantum
+Quantum Crislei
+GPT-4: For cluster 287: Andrezza Fraternidade, JacksonviR
+GPT-4: For cluster 291: Antroliwalla
+GPT-4: For cluster 292: Cristalmar
+Vanderley Norsul
+Rebeca Vervloet
+Frederico
+Jussi Pulkka
+Isabela Vizinha
+GPT-4: For cluster 296: Jus.ku.la
+GPT-4: For cluster 298: Jus.ku.la
+GPT-4: For cluster 299: Prins-Gervais, Zarco-Gonzalez, Metcalfe1223Pizz, @Junior Bortolini
+GPT-4: For cluster 300: Croisillon, Brunswick, Connecticut
+GPT-4: For cluster 301: ZeEy, g_balatkelaou, carpeta aleatorio activada, nelsinho aracaju, Vanderlei Norsul
+GPT-4: For cluster 307: Aracaju
+GPT-4: For cluster 308: Washington, Dakota
+GPT-4: For cluster 309: Alexandria, Trenton, Cheyenne
+GPT-4: For cluster 312: Jacksonville
+GPT-4: For cluster 313: Falling Waters Campsite
+GPT-4: For cluster 314: Canada, Toronto
+GPT-4: For cluster 318: Calgary
+GPT-4: For cluster 319: Jacksonville, Kingston, and Glasgow
+GPT-4: For cluster 328: Yvr
+Slovak
+Czech
+NO DISPONIBLE
+dieciochoavo
+mil_quinientos
+GPT-4: For cluster 329: Lokhonia
+GPT-4: For cluster 336: Junqueira Gvmar
+GPT-4: For cluster 338: Champaign Urba
+GPT-4: For cluster 339: 1286 Monette
+GPT-4: For cluster 346: Fraternidade N
+1293 Monette1288Sania1289Sp771290Tessa1291Zach1292Watson
+GPT-4: For cluster 349: Lu.si.'A.n$_'lAn.dR+Es
+Lu.si.'A.n$_mA.'lo&U.k$
+Lu.si.'A.n$_'vE0R+.no&U
+k_'nI.k$.la&I
+bOR+.r6$.li.ni_'d&Zu.nj$R+
+bR+e&I.dEs.ko&U
+bR+@nK.ko&U_'w
+R+e&I.d&Zi_'SA.r6$
+SA.r6$_'R+e&I.d&Zi
+GPT-4: For cluster 368: aracaju
+GPT-4: For cluster 373: kar-"gan-do
+GPT-4: For cluster 375: Washington
+GPT-4: For cluster 391: canal ciento_cincuenta-y-siete,
+ciento_tres,
+canal cent_quatre-vingt-dix-neuf,
+canal cent_quatre-vingt-dix-sept,
+canal cent_soixante-dix-neuf,
+sept-cent_quatre-v,
+canal quatre-vingt-seize,
+canal cent_quatre-vingt-seize,
+cent_quarante-cinq,
+canal cent_quatre-vingt-six,
+cent_quatre
+GPT-4: For cluster 399: Washington
+GPT-4: For cluster 400: canal doscientos_treinta-y-siete

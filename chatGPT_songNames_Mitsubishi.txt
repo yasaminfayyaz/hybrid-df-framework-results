@@ -1,0 +1,33 @@
+chatGPT: For cluster 14: 2000 Farstucker (song name)
+chatGPT: For cluster 20: Schism - Tool - Lateralus
+chatGPT: For cluster 22: 1999 Surrender [Australia Bonus, 1993 Angst, 1983 Murmur, 1983 True, 2000 Bloodflowers, 1994 Lifeforms
+chatGPT: For cluster 43: None of the above data seems to be song names. It appears to be names of computer components and possibly brand names of electronic devices.
+chatGPT: For cluster 49: All the entries in the data list have "Download" mentioned, so it does not specify any song name. Therefore, the answer to this question would be "none".
+chatGPT: For cluster 52: There is only one song mentioned in the provided data, which is "Lifeforms (2 of 2)".
+chatGPT: For cluster 53: Chemical Brothers, Spandau Ballet
+chatGPT: For cluster 69: There are no song names present in the provided data.
+chatGPT: For cluster 74: Track 03
+chatGPT: For cluster 90: none. 
+
+Unfortunately, the given data does not seem to contain any recognizable song names. It appears to be a series of disjointed and unintelligible characters.
+chatGPT: For cluster 99: Lights
+chatGPT: For cluster 103: none. 
+
+It seems like the provided data does not contain any song names.
+chatGPT: For cluster 104: Sorry, I cannot find any song names in the given data as these chunks seem to contain information related to mileage.
+chatGPT: For cluster 116: It is not possible to extract song names from the given data as it only contains a single string of special characters. Therefore, the response will be 'none'.
+chatGPT: For cluster 118: None of the chunks of data contain any song names.
+chatGPT: For cluster 123: None. There are no song names present in the given data.
+chatGPT: For cluster 127: Sorry, there are no song names in this data.
+chatGPT: For cluster 128: None of the song names are present in the given data.
+chatGPT: For cluster 129: Sub, KMFDM, Kraftwerk, The Chemical Brothers - Loops o, The Chemical Brothers - Surrend, The Chemical Brothers - Come wi, Lords of Acid - Farstucker - 01, Lords of Acid - Farstucker - 02, Lords of Acid - Farstucker - 03, Lords of Acid - Farstucker - 04, Lords of Acid - Farstucker - 05, Lords of Acid - Farstucker - 06, Lords of Acid - Farstucker - 07, Lords of Acid - Farstucker - 08, Lords of Acid - Farstucker - 09, Lords of Acid - Farstucker - 10, Lords of Acid - Farstucker - 11, Lords of Acid - Farstucker - 12, Lords of Acid - Farstucker - 13, Lords of Acid - Farstucker - 14, Lords of Acid - Farstucker - 15, Lords of Acid - Farstucker - 16, Lords of Acid - Farstucker - 17, Lords of Acid - Farstucker - 18, Lords of Acid - Farstucker - 19, The Cure - Kiss Me, Kiss Me, Ki, The Future Sound of London - Pa, The Future Sound of London - Li
+chatGPT: For cluster 130: 'Light', 'A Drug Aga', 'Blood Evil', 'Lust', 'Glory', 'Move On', 'No Peace', 'A Hole in', 'Sucks', 'The Proble', 'The Mix', 'Computer Love', 'Pocket Calculator', 'Dentaku', 'Autobahn', 'Radioactivity', 'Trans Europe Express', 'Abzug', 'Metropolis', 'Home Computer', 'Music Non Stop', 'Radio Free Europe', 'Pilgrimage', 'Laughing', 'Talk Abo', 'Moral Ki', 'Perfect', 'Catapult', 'Sitting', '9-9', 'Shaking', 'We Walk', 'West of', 'Communication', 'Pleasure', 'Gold', 'True', 'Miami', 'Requiem', 'The Loudest Sound', 'Loops of_', 'Drag', 'Maybe Someday', 'Numb', 'Bloodflowers'
+chatGPT: For cluster 135: Bob Marley - Pimpers Paradise
+chatGPT: For cluster 146: Schism   Tool   Lateralus
+chatGPT: For cluster 153: Sorry, I couldn't find any song names in the given data.
+chatGPT: For cluster 174: Sorry, I cannot list any song names as the provided data '+)BnL' does not contain any printable characters or strings that could represent a song name.
+chatGPT: For cluster 175: Sorry, it is not possible to retrieve song names from the provided data as it seems to be encoded or corrupted.
+chatGPT: For cluster 179: Sorry, I cannot perform the requested task as the given data `['"c3S3']` is not sufficient to retrieve information related to song names.
+chatGPT: For cluster 180: It is not possible to determine song names from the given data as it only contains special characters.
+chatGPT: For cluster 182: 'All Me (feat. 2 Chainz & Big Sean).mp3', '1987 Kiss Me, Kiss Me, Kiss Me'
+chatGPT: For cluster 184: Sorry, but it is not possible to retrieve song names or any meaningful information from the given data "['(,02D']". It seems to be a corrupted or incomplete piece of data as it doesn't seem to contain any printable characters.

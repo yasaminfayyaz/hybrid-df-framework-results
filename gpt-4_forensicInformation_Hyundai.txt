@@ -1,0 +1,2720 @@
+GPT-4: For cluster 1: montpelier
+sirius trois
+sirius deux
+sirius un
+satellite deux
+satellite trois
+GPT-4: For cluster 2: 1. 's de conectar radio Pandora.'
+2. 'Appeler par nom'
+3. 'Appeler un nom'
+4. 'Composer par nom'
+5. 'Composer un nom'
+6. 'Appeler par num'
+7. 'Appeler un num'
+8. 'Composer par num'
+9. 'Composer un num'
+10. 'Lecture du message'
+11. 'Nouvelle lecture'
+12. 'Tout supprim'
+13. 'Essayer de nouveau'
+14. 'Stockage automatique'
+15. 'lection Balayage'
+16. 'Dossier pr'
+17. 'au bureau'
+18. 's le bip. ou dites aide pour en savoir plus.'
+19. ", je n'ai pas compris."
+20. ", je n'ai pas entendu."
+21. 'Veuillez dire.'
+22. 'Pour voir davantage, dire Suivant.'
+23. 'Ce contact a plusieurs num'
+24. 't dites un num'
+25. 'ro de ligne, par example la ligne 1.'
+26. 'atoire du dossier activ'
+27. 'tition Activ'
+28. 'tition du dossier activee.'
+29. 'ter desactivee.'
+30. 'tition du dossier desactivee.'
+31. 'lectionner l'
+32. 'appareil connect'
+33. 'impossible de sauvegarder vos pr'
+34. 'Impossible de sauvegarder votre signet.'
+35. "Blue tooth n'est pas pr"
+36. "t. S'il vous pla"
+37. 'hicule est arr'
+38. 'Rechercher un nouvel apparielle Blue tooth de votre t'
+39. 'tre connecter ou jumeler.'
+40. "Information du contact n'est pas disponible."
+41. 'Message Au volant envoy'
+42. "11 chiffres. S'il vous pla"
+43. "ro souhaitez-vous appeler? s'il vous pla"
+44. 'ro de ligne, par example 1.'
+45. "Il n'ya pas de num"
+46. 'phone mobile. Voulez-vous appeler au num'
+47. 'ro du bureau?'
+48. "Il n'y a pas de num"
+49. 'ro du cellulaire?'
+50. 'ro du autre?'
+51. "ro pour l'option Autre. Voulez-vous appeler au num"
+52. "Cette commande n'est pas utilisable avec la reconnaissance vocale."
+53. 'La commande ne function pas avec ce dispositif.'
+54. "Entrain de rechercher, S'il vous pla"
+55. 'galement mentionner un support de stockage comme U S B, Ma musique, ou iPod. De plus, vous pouvez utiliser des commandes de t'
+56. 'phone comme Contacts, Historique des appels, ou Composer un num'
+57. 'dente, suivant ou annuler pour sortir.'
+58. 'Pour appeler un contact, vous pouvez dire Appeler John Smith, ou dites Historique des appels, Recomposer, ou Composer un num'
+59. "ro. Pour obtenir de l'aide avec les autres modes, dites Aide pour toutes functions apr"
+60. 'Vous pouvez dire Appel, Historique des appels, Recomposer, ou Composer un num'
+61. 'Vous pouvez dire Recomposer, Historique des appels, ou Composer un num'
+62. "ances pour l'utilisation du voix, S"
+63. 'ance 1. Commencer la s'
+64. 'ance de voix de reconnaissance, appuyer la pouss'
+65. 's le bip. Pour interrompre une r'
+66. 'ponse de voix, appuyer la pouss'
+67. 'ance de voix, vous pouvez appuyer et tenir la pouss'
+68. "r parler bouton jusqu'"
+69. "ance ou vous pouvez dire annuler. C'est la fin du premi"
+70. "mettre des appels Blue tooth. L'activation du Blue tooth est diff"
+71. '.hyundaiusa.com/Blue tooth" pour voir la liste des appareils Blue t8'
+72. "ooth compatibles. C'est la fin de la deuxi"
+73. "liorer l'environnement de reconnaissance de voix. Am"
+74. "liorer l'environnement de reconnaissance de voix. par r"
+75. "t s'assurer que les fen"
+76. 'es, le ventilateur de climatiseur est r'
+77. ". C'est la fin du cinqui"
+78. "e. L'ordre doit"
+79. 's le bip. Quelque commandes sont: radio, appel. Une liste d'
+80. "e en diant l'aide et apr"
+81. "hicule. C'est la fin du troisi"
+82. 'Composer un numero international'
+83. 'tition du dossier d'
+84. "Vos contacts n'ont pas"
+85. "s. Les commandes d'appel comme Appel John Smith ne sera pas disponible jusqu'"
+86. 'charger, appuie la cl'
+87. 'avez-vous dit'
+88. 't appuyer sur le pouss'
+89. ", j'ai beaucoup de mal"
+90. 'duire le bruit, veuillez fermer toutes les vitres et diminuer la vitesse du ventilateur. Appuyez ensuite sur le bouton Parler et essayez de nouveau.'
+91. 't dites Ligne 1, ou Ligne 2.'
+92. 't dites Ligne 1, Ligne 2, ou Ligne 3.'
+93. "C'est la premi"
+94. "Chargement, s'il vous pla"
+95. "Erreure d'antenne, S'il vous plait v"
+96. "s avoir connecter l'auxiliaire."
+97. "Impossible de trouver le fichier. S'il vous pla"
+98. 'atoire du dossier d'
+99. 'atoire de l'
+100. 'Maintenant en marche.'
+101. "moire pleine. S'il vous pla"
+102. 's avoir connecter radio Pandora.'
+103. 'en signet.'
+104. "Blue tooth est en marche. S'il vous pla"
+105. "phone n'accepte pas les SMS."
+106. "Il n'ya pas de SMS."
+107. "Impossible de trouver le contact. S'il vous pla"
+108. "22 chiffres. S'il vous pla"
+GPT-4: For cluster 3: forensically relevant info:
+- Blue tooth
+- contact names: John S*, John Smith
+- phone numbers: F M 89,1, A M 1080, Sirius canal 1, Sirius pr
+- locations: montgomery, saint paul, saint petersburg, baton rouge
+- commands: radio, satellite, appel, marche, pause, sauter, station, sauvegarder, ignorer, Lecture al, signet, Trier
+- file names: LNu(}'ad ad, dM*_h%r]"rq"'
+- possible password: e;BR{%!AH3
+GPT-4: For cluster 4: - phone ou vous pouvez contacter le centre d'assistance consommateurs kia huit-cent, trois-cent_trente-trois, quatre kIv
+- rifier notre website, W_W_W, point hy undai usa, point com, slash blue tooth
+- composer un num
+- composer un numero international
+- composer par num
+- l soixante-treize
+- al cent_cinquante-sept
+GPT-4: For cluster 10: forensically relevant info:
+1. 'blue tooth para sincronizar un tel'
+2. 'historial de llamadas, o contactos'
+3. 'configura tus favoritos'
+4. 'conectar radio pandora'
+5. 'explorar archivo de disco compacto'
+6. 'encontrado m'
+7. 'explorar archivo en mi m'
+8. 'mostrar archivo en mi m'
+9. 'navegar archivo en mi m'
+10. 'o en jukebox'
+11. 'repetir est'
+12. 'buscar mi m'
+13. 'historial de llamadas, o contactos'
+14. 'el reconocimiento de voz no est'
+15. 'a uno, escanear, o ayuda'
+16. 'a de la casa no est'
+17. 'historia de llamadas no est'
+18. 'histórial de llamadas'
+19. 'audio blue tooth no esta disponible'
+20. 'buscar archivo en mi m'
+GPT-4: For cluster 13: Historial de llamadas
+Llamadas recientes
+Volver a marcar
+Leer mensaje
+Eliminar todo
+Buscar para arriba
+Buscar para abajo
+Siguiente carpeta
+Usted puede decir Volver a marcar, Marcar n
+En este momento estoy conduciendo
+No puedo hablar ahora
+Descargando contactos del tel
+Desea eliminar todos los archivos? Por favor, diga S
+Desea eliminar todos los mensajes?
+Desea eliminar el archivo que se est
+Desea eliminar este mensaje?
+realizar una llamada de tel
+fono usando manos libres
+disponible y necesita ser descargada
+gracias por usar el tutorial de comando de voz
+para hacer una llamada a manos libres, diga llamar seguido por el nombre de su contacto
+desea eliminar todos los archivos
+descargando historial de llamadas
+desea eliminar todos los mensajes
+buscar archivo de disco compacto
+no se pudo encontrar el archivo
+desea eliminar este mensaje
+desea eliminar el archivo
+desea descargarlos ahora
+mero desea marcar
+meros favoritos
+buscar archivo de disco
+O decir internacional
+GPT-4: For cluster 16: - 'Converted SDK dictionary'
+- '# ruleset for CLC'
+- '# Copyright (c) 2014 Nuance Communications, Inc. All Rights Reserved.'
+- 'Audio Blue tooth'
+- 'Tutorial 2. Conexi'
+- 'Composer Contacts'
+- 'Information'
+- 'Envoi d'un message s'
+- 'Message re'
+- 'Auto Store'
+- 'Preset Scan'
+- 'Shuffle Off'
+- 'Repeat Off'
+- 'Folder Repeat Off'
+- 'Next Folder'
+- 'Previous Folder'
+- 'Random Off'
+- 'Random Folder'
+- 'Shuffle Folder'
+- 'All Random'
+- 'No Files on iPod.'
+- 'Random is on.'
+- 'Random folder is on.'
+- 'Album Random is on.'
+- 'All Random is on.'
+- 'Shuffle is on.'
+- 'Shuffle Folder is on.'
+- 'Shuffle Album is on.'
+- 'Folder Repeat is on.'
+- 'Delete All'
+- 'Please say Line 1, or Line 2.'
+- 'Please say Line 1, Line 2, or Line 3.'
+- 'Dial a Name'
+- 'Dial by Number'
+- 'Read Message'
+- 'Blue tooth Audio'
+- 'Correction'
+- 'echo Copying apdb-cs_samantha_a'
+- 'Technology Off'
+- 'Fraternity'
+- 'Paradiso Pizza'
+- 'Paradiso Pizza Road'
+- 'SAM Dispatcher'
+- 'Kid i Hit Last Season'
+- 'Kid i Hit Last Season Paquette'
+- 'Dispatcher SAM'
+- 'Road Paradiso Pizza'
+- 'Piano Mover'
+- 'From Lisgar'
+- 'Paquette Kid i Hit Last Season'
+- 'Slavic Nigga'
+- 'Pessoal - Quantum'
+- 'Pizza Pizza'
+- 'On tech Bluetooth Jig'
+- 'Amazon Echo'
+- '@Nathan The Negro'
+- '@My Number'
+GPT-4: For cluster 17: seventieth
+february
+september
+november
+december
+GPT-4: For cluster 18: d_twenty-seven
+GPT-4: For cluster 21: 1. Blue tooth connection instructions and compatibility information.
+2. Voice recognition tutorial information.
+3. Connected device and phone pairing instructions.
+4. Various voice commands and error messages related to infotainment system functions.
+5. Information about downloading contacts for hands-free calling.
+GPT-4: For cluster 22: 1. Downloading Contacts from mobile phone. Please try again later.
+2. Tutorial 3. How to find available voice commands.
+3. Tutorial 4. Making a hands free phone call.
+4. End of the fourth tutorial.
+5. -4KIA to review your Blue tooth issue with a specialist.
+6. Please make your selection from the display using the tune knob and push enter.
+7. Now driving.
+8. Unable to find file. Please make your selection from the display using the tune knob and push enter.
+9. Unable to find contact. Please make your selection from the display using the tune knob and push enter.
+10. Long beach, Long island.
+11. You can say a channel number like X M Channel 1 or X M Preset 2.
+12. Please say a command after the beep or s, Please say a file name. Only file names are available.
+13. Continue with your entry or say Dial, Correction, or Delete.
+14. Please say a Track number like Track 1.
+15. Echo Copying apdb_rp_julie_audio.dat to %TARGETINSTALL%\\languages\\frc\\speech\\components.
+16. Please make sure that the windows are closed, the air conditioner fan is set to low, and that background noise such as other conversations are minimized.
+17. In order for hands free calling to work in the vehicle, blue tooth has to be enabled from your mobile phone.
+18. A detailed list of available commands in each mode can be found by saying help and then more help.
+GPT-4: For cluster 23: 1. 'F M eighty-nine point one or A M one-thousand_ten'
+2. 'call john smith'
+3. 'channel twenty-four, preset one, scan or preset scan'
+4. 'X M channel one or X M preset two'
+5. 'voice recognition is not available while rear camera is active'
+6. 'U S B, my music, or i-pod'
+7. 'your call history is not available and needs to be downloaded'
+8. 'please pair a phone after vehicle is stopped'
+9. 'connect a blue tooth device to pair a phone'
+10. 'message can't talk right now is being sent'
+11. "message I'll call you later is being sent"
+12. 'please delete songs from my music'
+13. 'F M, A M, or satellite'
+14. 'you can say, for example, a radio type like F M, or A M, you can also say a media source like U S B, my music or i-pod'
+GPT-4: For cluster 26: Audio Blue tooth no esta disponible.
+Blue tooth est
+atoire activ
+atoire total activ
+phone n'est pas disponible.
+ance 2. Connexion Blue tooth. Blue tooth doit
+IPOD_~24LCF
+Blue tooth Audio n'est pas disponible.
+CD_REA~4LCF
+CD_REA~8LCF
+interstate
+interstate highway
+pennsylvania
+industrial
+industrials
+fahrenheit
+echo Copying apdb_rp_samantha_audio.dat to %TARGETINSTALL%\\languages\\enu\\speech\\components
+leisure 'li.ZE0
+sioux falls
+southfield
+springfield
+indianapolis
+beverly hills
+kansas city
+new orleans
+orange park
+battle 'b@.r6l%)
+sioux falls
+southfield
+springfield
+indianapolis
+beverly hills
+kansas city
+new orleans
+orange park
+GPT-4: For cluster 27: 1. eli new sheqel
+2. sica, I pod, audio blue tooth, tel
+3. a uno, auto programar, escanear, escanear presinton
+4. a uno, escanear, informaci
+5. blue tooth est
+6. blue tooth no est
+7. examinar disco compacto
+8. audio blue tooth
+9. auto programar
+10. blue tooth doit
+11. connexion blue tooth
+12. lection, stockage automatique, balayage, s
+13. econnaissance vocale
+14. blue tooth audio n'est pas disponible
+15. charger maY
+16. essayez de-nouveau apr
+17. lecture aleatoire activ
+18. jouer l'audio blue tooth
+19. trier station
+20. ma musique, I pod, audio blue tooth, t
+21. atoire, lecture aleatoire total, repeter, repetition du dossier, copier, informa
+22. de l'appareil blue tooth
+23. mode balayage activ
+24. ground noise
+25. blue tooth connection
+26. music, i-pod, blue tooth audio, phone, favorite, call history or contacts
+27. blue tooth audio
+28. antenna error
+GPT-4: For cluster 28: infotainment system, Contacts t, n m@Tt~F\ts, s informaci, s del bip., s ayuda. Tambi, s del bip. Tambi, voulez_vous le t, voulez_vous t
+GPT-4: For cluster 31: phone Blue tooth doit, phone mobile, phone book, downloading contacts from mobile phone, updating contacts list, phone book download, call international, dial international, no contacts stored, contacts download, message received, call history, recent calls, station list, station name, call history download, call by contacts, dial by contacts, play phone music, phone contacts, international, call contacts, dial contacts, phone book, quick dial, speed dial
+GPT-4: For cluster 33: 55 35 33 21 13 22
+GPT-4: For cluster 34: eduardo st lawrence
+GPT-4: For cluster 37: usted puede decir radio, F M, A M, sirius, medios, U S B, auxiliar, mi m
+seiscientos_sesenta A
+usted puede decir radio, F M, A M, medios, U S B, auxiliar, mi m
+puede decir radio, F M, A M, sirius, medios, U S B, auxiliar, mi m
+sica, I pod, audio bl
+mil_setecientos_diez A
+atoire, lecture al
+vous pouvez dire radio, F M, A M, sirius, m
+dia, C D, U S B, auxiliaire, ma musique, I pod, audio blue tooth, t
+dia, U S B, auxiliaire, ma musique, I pod, audio blue tooth, t
+SIN NUMERO
+i7 AvD_-8 6
+GPT-4: For cluster 38: Galaxy A5 (2017), @sergio br, @Li Yuting, @Daniel Ow, @Ronald Celular 2, @Jeff - Dad, @Ana ( Dani), CGema ( Milo)
+GPT-4: For cluster 40: Sirius Canal
+Dossier Al
+Cleaning Mitch - Debbi
+lieutenant
+Sirius Chann
+International
+North Carolina
+California
+British Columbia
+Connecticut
+Adriana delta
+ega Robson
+nada Roberta
+Canadian Pedro
+Eduardo Slm Func
+Eduardo Slm Func Zap
+Fraternity Marilena
+Karina delta
+Katty Morissete Sherbrooke
+MARIO AMIGO PETER
+Nelson IpI
+Pai Waldemar
+Pedro Canadian
+Peter2 Mario
+Romulo Quantum
+SLM' Edney
+Shata Raji
+Sherbrooke
+Sherbrooke Katty Morissete
+Amigos Do Ademilson Montreal
+Chiron Yang
+Loreto Chaz
+Maya Totev
+Melissa Trz
+Nathan The Negro
+CANADA Rodrigo
+Calgary Getulio
+Edney SLM'
+Gabrielli Quantum
+Getulio Calgary
+IpI Nelson
+Marcela Irm
+Marco Canada
+Marilena Fraternity
+Mario Peter2
+Quantum Gabrielli
+Raji Shata
+Rodrigo CANADA
+Rodrigo Je
+Waldemar Pai
+Zap Eduardo Slm Func
+karla Roberta
+Chorfi Rostom
+Chouinard Hedy
+Hedy Chouinard
+Farooq Usayd
+From Lisgar Ja
+Joane Tiernan' Mom - Leo Friend
+Laurie Br Ca
+Tamara - Thiago, Rafa e Ernest
+Tatiana Psicologa - Dra Mara
+Totev Maya
+Usayd Farooq
+Yang Chiron
+Chen Xudong
+ng Mitch - Debbie
+Ko Isaac Gao Jiahong
+Mei Sun Xiao
+Zhao Huimin
+Huimin Zhao
+Isaac Gao Jiahong Ko
+Xiao Mei Sun
+Xudong Chen
+Eduardo Slm Func Za
+Daniela St Lar
+Monette STA Bit
+Joane Tiernan' Mom - Leo Fr/
+Keila Iphone
+Maria St Lawr
+iPhone de Ben
+@Ana Elisa
+@Maria St Lawrence
+AMarilena Fraternity
+@MARIO AMIGO PETER
+@Milena Irma
+@Jun Liang
+Gao Jiahong
+Chaz Loreto
+berto Atkins
+tch Monette
+@Falling Waters Campsite
+AJohanne Corneau
+@Daniela St Lawrence
+@Delcy Luis
+CElizabeth Lo
+CSebastian Curtin
+CTori Piche
+Tamara - Thiago, Rafa e Ernesto
+CCarlos Henrique Canada
+@Leo Roberta
+@Leo Roberta Ca
+CTamara Rafa
+@Tracy Handy
+GPT-4: For cluster 41: cia ab-56b7rty
+GPT-4: For cluster 42: echo Copying apdb-cs_paulina_audio
+sirius presinton
+D205016_01
+t connectez l'I pod
+voulez_vous composer
+quatre-vingt-dix point n
+anal deux-cent_trente-neuf
+Adelcio Ipi
+Cei Nasareno
+Nasareno Cei
+io Militao
+ra Portalski
+lei Norsul
+chen mianren
+mianren chen
+UICKD1 DAT
+@Adelcio Ipi
+@Jim Schneider
+GPT-4: For cluster 45: Marcar Internacional
+Internacional
+Alberto Colombia
+Alessandro Oficina
+Carlinhos Munck
+Christiano MUNDIAL
+Colombia Alberto
+Eduardo Carro Strada
+Eduardo SLM
+Evaldo Bradesco
+Junqueira BR
+Laranjeiras Casa
+Luciana Prima
+Nelsinho Tio
+Neto Panga
+Oswaldo SLM
+Rodrigo Kingston Brasil
+Tais Fortaleza Secretaria Fazen
+Ana Hungria
+Angelita Salgados
+BR Junqueira
+Bradesco Evaldo
+Brasil Marco
+Brasilia Moraes
+Brava Mateus
+Bruno Garagem Naturale
+Bruno Itau
+Caca Brasil
+Cosan Matheus
+Denilson RC
+Edinho Rio Grande
+Edmar Paranagua
+Itau Bruno
+veaux Renato
+Joao Luiz Nasa
+Joao Pedro Sobrinho
+Joao Vitor
+Marco Brasil
+Marilene Celular
+Mateus Brava
+Matheus Cosan
+Moraes Brasilia
+Prima Luciana
+Prosa Ricardo
+fael Vargas empresa
+Ricardo Prosa
+Tio Nelsinho
+Ze Carlos Bahia
+Ze Luis Vizinho
+empresa Rafael Vargas
+Marquinhos
+Luciana Maloca
+Luciana Virno
+Marcos Filho
+Laranjeiras
+Secretaria
+Brasileira
+Portuguese
+SLM Oswaldo
+Caca Brasil
+Rafael Vargas empresa
+ATais Fortaleza Secretaria Fazenda
+ATio Nelsinho
+ranjeiras Casa
+Tais Fortaleza Secretaria Fazend
+Bruno Garagem Naturale
+Evaldo Bradesco
+Joao Luiz Nasa
+Joao Pedro Sobrinho
+ao Pedro Sobrinho
+Rafael Vargas empresa
+Ana Hungria
+Luciana Maloca
+GPT-4: For cluster 51: Historique des appels
+GPT-4: For cluster 55: Forensically relevant info:
+1. Infotainment system contains functionality for contacts, call history, and favorites.
+2. Infotainment system has options for playing, pausing, shuffling, repeating, and deleting files.
+3. Infotainment system responds to voice commands.
+4. Infotainment system allows users to store and download contact information.
+GPT-4: For cluster 56: Multiple results found.
+Blue tooth not ready. Please wait.
+Phone number not available.
+Contact information not available.
+Blue tooth audio not available.
+Track not available.
+Home number not available.
+Mobile number not available.
+Office number not available.
+Line not available.
+call history is not available
+only file names are available
+mobile number not available
+office number not available
+home number not available
+blue tooth not ready
+line not available
+contact information not available
+blue tooth audio not available
+phone number not available
+track not available
+GPT-4: For cluster 59: _encendido
+GPT-4: For cluster 60: Autumn Zlepnig
+Zlepnig Autumn
+@Eduardo SLM
+GPT-4: For cluster 64: - en Sirius, puede decir comandos como Canal 24, Presinton
+- san francisco
+- sacramento
+- san antonio
+- alista revise su problema con el blue tooth
+- n puede revisar nuestro sitio web, W_W_W, punto hyundai usa, punto co
+- tutorial cuatro
+- tutorial cinco
+- tutorial tres
+- tutorial dos
+- tutorial uno
+- por favor conecte el I pod
+- por favor revise la antena
+- guardar presinton
+- cien punto nuev
+- repetir desactivadio
+- siguiente canci
+- mostrar canci
+- sirius dos
+- sirius uno
+GPT-4: For cluster 70: XM channel one-hundred_seventy-nine
+XM channel one-hundred_thirty-eight
+XM channel one-hundred_thirty-seven
+XM channel one-hundred_thirty-three
+XM channel one-hundred_twenty-eight
+XM channel one-hundred_twenty-seven
+XM channel one-hundred_twenty-three
+XM channel two-hundred_thirty-eight
+XM channel two-hundred_thirty-seven
+XM channel two-hundred_thirty-three
+XM channel two-hundred_twenty-eight
+XM channel one-hundred_eighty-one
+XM channel one-hundred_eighty-six
+XM channel one-hundred_eighty-two
+XM channel one-hundred_fifty-five
+XM channel one-hundred_fifty-four
+XM channel one-hundred_fifty-nine
+XM channel one-hundred_forty-five
+XM channel one-hundred_forty-four
+XM channel one-hundred_forty-nine
+XM channel one-hundred_ninety-one
+XM channel one-hundred_fifty-one
+XM channel one-hundred_fifty-six
+XM channel one-hundred_fifty-two
+XM channel one-hundred_forty-one
+XM channel one-hundred_forty-six
+XM channel one-hundred_forty-two
+XM channel one-hundred_seventeen
+XM channel one-hundred_sixty-one
+XM channel one-hundred_sixty-six
+XM channel one-hundred_sixty-two
+XM channel two-hundred_fifty-one
+XM channel two-hundred_fifty-two
+XM channel two-hundred_forty-one
+XM channel two-hundred_forty-two
+XM channel two-hundred_seventeen
+XM channel one-hundred_fifteen
+XM channel one-hundred_seventy
+XM channel one-hundred_sixteen
+XM channel two-hundred_fifteent
+XM channel two-hundred_sixteen
+XM channel one-hundred_eight
+XM channel one-hundred_fifty
+XM channel one-hundred_forty
+XM channel one-hundred_seven
+XM channel one-hundred_sixty
+XM channel one-hundred_three
+XM channel two-hundred_eight
+XM channel two-hundred_fifty
+XM channel two-hundred_forty
+XM channel two-hundred_seven
+XM channel two-hundred_three
+XM channel one-hundred_one
+XM channel one-hundred_ten
+XM channel one-hundred_two
+XM channel two-hundred_one
+XM channel two-hundred_six
+XM channel two-hundred_ten
+XM channel two-hundred_two
+XM channel one-hundred_seventy-eight
+XM channel one-hundred_seventy-seven
+XM channel one-hundred_seventy-three
+XM channel one-hundred_eighty-eight
+XM channel one-hundred_eighty-seven
+XM channel one-hundred_ninety-eight
+XM channel one-hundred_ninety-seven
+XM channel one-hundred_ninety-three
+XM channel one-hundred_seventy-five
+XM channel one-hundred_seventy-four
+XM channel one-hundred_eighty-five
+XM channel one-hundred_eighty-four
+XM channel one-hundred_eighty-nine
+XM channel one-hundred_fifty-eight
+XM channel one-hundred_fifty-seven
+XM channel one-hundred_fifty-three
+XM channel one-hundred_forty-eight
+XM channel one-hundred_forty-seven
+XM channel one-hundred_forty-three
+XM channel one-hundred_ninety-five
+XM channel one-hundred_ninety-four
+XM channel one-hundred_ninety-nine
+XM channel one-hundred_seventy-one
+XM channel one-hundred_seventy-six
+XM channel one-hundred_seventy-two
+XM channel one-hundred_sixty-eight
+XM channel one-hundred_sixty-three
+XM channel one-hundred_thirty-five
+XM channel one-hundred_thirty-four
+XM channel one-hundred_thirty-nine
+XM channel one-hundred_twenty-five
+XM channel one-hundred_twenty-four
+XM channel one-hundred_twenty-nine
+XM channel two-hundred_fifty-three
+XM channel two-hundred_forty-eight
+XM channel two-hundred_forty-seven
+XM channel two-hundred_forty-three
+XM channel two-hundred_thirty-five
+XM channel two-hundred_thirty-four
+XM channel two-hundred_thirty-nine
+XM channel two-hundred_twenty-five
+XM channel two-hundred_twenty-four
+XM channel two-hundred_twenty-nine
+XM channel one-hundred_ninety-six
+XM channel one-hundred_ninety-two
+XM channel one-hundred_sixty-five
+XM channel one-hundred_sixty-four
+XM channel one-hundred_sixty-nine
+XM channel one-hundred_thirty-one
+XM channel one-hundred_thirty-six
+XM channel one-hundred_thirty-two
+XM channel one-hundred_twenty-one
+XM channel one-hundred_twenty-six
+GPT-4: For cluster 73: Forensically relevant info:
+
+1. Sirius Canals: The data contains numerous "Sirius Canal" entries ranging from "Sirius Canal 0" to "Sirius Canal 100". These may be channel names, identifiers, or configuration data related to the infotainment system.
+GPT-4: For cluster 82: Forensically relevant info:
+
+- XM channels info: XM Radio channels are being listed in the data, specifically 'X M Channel' followed by a channel number or 'Oh' series. These channels may belong to an infotainment system of a vehicle, helping to provide information about the user preferences and usage patterns.
+GPT-4: For cluster 90: Forensically relevant info:
+- Infotainment System has XM Radio channels numbered from 1 to 59 with some variations in numbering.
+GPT-4: For cluster 95: Ademilson
+Ronald Celular
+Ademilson
+Daniel Kansas
+T:
+T;
+GPT-4: For cluster 98: Tutorial 3. C
+Please insert a C D.
+No files on C D.
+Explorar archivo C D
+Explorar C D
+Mostrar C D
+Navegar C D
+Buscar C D
+Analizar archivo C D
+Buscar archivo C D
+Abrir archivo C D
+Rechercher un C D
+Jouer le C D
+Rez un C D
+Parcourir le C D
+Afficher le C D
+Explorer le C D
+Browse C D file
+Search C D file
+Show C D file
+Explore C D
+Please insert a C D
+No files on C D
+Browse C D
+Search C D
+GPT-4: For cluster 100: AM Preset 1
+AM Preset 2
+AM Preset 3
+AM Preset 4
+AM Preset 5
+AM Preset 6
+FM 1 Preset 1
+FM 1 Preset 2
+FM 1 Preset 3
+FM 1 Preset 4
+FM 1 Preset 5
+FM 1 Preset 6
+FM 2 Preset 1
+FM 2 Preset 2
+FM 2 Preset 3
+FM 2 Preset 4
+FM 2 Preset 5
+FM 2 Preset 6
+GPT-4: For cluster 101: Forensically relevant info:
+- Sirius 2 Presinton
+- Sirius 3 Presinton
+- Sirius 1 Presinton
+- Sirius Channel 1 to Sirius Channel 59 (some missing channels in between)
+GPT-4: For cluster 107: Forensically relevant info:
+- List of XM radio channels (XM channel names with numbers ranging from zero to one hundred)
+GPT-4: For cluster 113: Forensically relevant info:
+
+1. Sirius Canal 1 and Sirius Canal 2: These entries appear to be related to satellite radio channels or settings in the infotainment system.
+
+2. Satellite 1, Satellite 2, and Satellite 3: These entries may be related to satellite navigation or satellite communication settings within the infotainment system.
+
+3. Sirius 1 Pre, Sirius 1 Pr, Sirius 2 Pr, and Sirius 3 Pr: These entries seem to be related to presets or configurations for the Sirius satellite radio channels.
+
+Many of the entries possess a consistent pattern, such as a primary category (e.g., Sirius Canal 1) followed by a numeral (e.g. 10, 11). These numbers may represent sub-settings or channels related to the primary category.
+GPT-4: For cluster 116: Forensically relevant info:
+- Infotainment system is associated with Sirius satellite radio, as indicated by the numerous "Sirius Canal" entries in the data.
+- Channels range from 101 to 223, with some channels missing in the sequence.
+GPT-4: For cluster 124: F M Presinton
+F M 1 Presinton
+F M 2 Presinton
+X M Presinton
+Siguiente P
+usted puede decir radio, F M, A M, sirius, medios, C D, U S B, auxiliar, mi m
+usted puede decir radio, F M, A M, X M, medios, C D, U S B, auxiliar, mi m
+usted puede decir radio, F M, A M, X M, medios, U S B, auxiliar, mi m
+usted puede decir radio, F M, A M, medios, C D, U S B, auxiliar, mi m
+F M ochenta-y-siete
+F M dos presinton
+F M uno presinton
+X M dos presinton
+X M tres presinton
+X M uno presinton
+F M presinton
+X M presinton
+puede decir radio, F M, A M, sirius, medios, C D, U S B, auxiliar, mi m
+puede decir radio, F M, A M, X M, medios, U S B, auxiliar, mi m
+F M ciento_uno pu
+vous pouvez dire radio, F M, A M, X M, m
+jouer l'audio B T
+F M quatre-vingt-quinze poi#"
+F M quatre-vi
+F M one-hundred_five
+GPT-4: For cluster 125: A M Presinton
+GPT-4: For cluster 128: Forensically relevant info:
+- XM Channel numbers: 60-225 (excluding 88, 111, 147, 152, 211, 216, 222; including an additional channel 'a' and channel '0')
+- Total unique XM Channels: 157
+GPT-4: For cluster 129: Forensically relevant info:
+- XM Channel numbers from 185 to 255
+GPT-4: For cluster 131: Dial a Number
+GPT-4: For cluster 134: F M 1 Oh 1 1
+F M 1 Oh 1 2
+F M 1 Oh 1 3
+F M 1 Oh 1 4
+F M 1 Oh 1 5
+F M 1 Oh 1 6
+F M 1 Oh 1 7
+F M 1 Oh 1 8
+F M 1 Oh 1 9
+F M 1 Oh 3 2
+F M 1 Oh 3 3
+F M 1 Oh 3 4
+F M 1 Oh 3 5
+F M 1 Oh 3 6
+F M 1 Oh 3 7
+F M 1 Oh 3 8
+F M 1 Oh 3 9
+F M 1 Oh 4 1
+F M 1 Oh 4 2
+F M 1 Oh 5 4
+F M 1 Oh 5 5
+F M 1 Oh 5 6
+F M 1 Oh 5 7
+F M 1 Oh 5 8
+F M 1 Oh 5 9
+F M 1 Oh 6 1
+F M 1 Oh 6 2
+F M 1 Oh 6 3
+F M 1 Oh 6 4
+F M 1 Oh 7 5
+F M 1 Oh 7 6
+F M 1 Oh 7 7
+F M 1 Oh 7 8
+F M 1 Oh 7 9
+
+A M 8 Oh 1
+A M 9 Oh 9
+A M 12 Oh 6
+A M 13 Oh 5
+A M 15 Oh 3
+A M 16 Oh 2
+GPT-4: For cluster 136: 1. 'Please connect a U S B.'
+2. 'No Files on U S B.'
+3. 'S M S is not supported.'
+4. 'Read S M S'
+5. '. U S Highway'
+6. 'por favor conecte el U S B'
+7. 'no existen mensajes S M S'
+8. 'S M S no es soportado'
+9. 'tocar memoria U S B'
+10. 'reproductor U S B'
+11. 'puerto U S B'
+12. 'tocar A U X'
+13. 'tocar U S B'
+GPT-4: For cluster 138: +14183555054, +14183606663, +14188069346, +14187175441, +12146327453, +15142656467, 18005274902, 18009710448, +15819844370, +14185612537, +14189152460, +14188069249, +14185709860, +5527999732124, +13433331139, +556696363288, +5527999487404, +552799947408, +5527999887004, +16135326734, +5527997810863, +5513981656806, +5527999898001, +5527992228966, +5527999460806, +555499933619, +5527999021706, +5513988664273, +5527996544690, +17854736251, +5521976736903, +5527997835656, +13433638906, +5598985173729, +5527999892300, +5527999711117, +5527996157516, +5527998371409, +5527981428388, +5527999570245, +5527998197333, +5527992578844, +5521996394009, +5527998396499, +13433331718, +554791896510, +5521982202002, +16138936080, +19053206283, +557999249500, +5527997823732, +5521981014447, +17096979094, +5521969876927, +5528999761449, +5515997896106, +5521996861852, +3583582046131, +5527999280413, +5512996255108, +5527999864783, +12506340285, +13433335891, +5527981353035, +5527999721624, +5511991691473, +15877071979, +13433333671, +16134849642, +5527981162503, +5511972304043, +5511995553106, +5521999917823, +5511990167630, +557988789298, +553598369958, +5527999624230, +5527999696183, +5527992819962, +5527998846818
+GPT-4: For cluster 139: It appears that there are a large number of phone numbers present in the data, which could be forensically relevant depending on the context of the investigation. Some examples include:
+
++1032547698
++14182627638
++14189065008
++15819822264
++15819842586
++14186582586
++5511965337420
++5521997657357
++16133299029
++5527996929974
++5521987679999
++5521964449540
++16132149169
++5527998311315
++5521971584117
++13433332610
+
+Please note that this is not an exhaustive list of the phone numbers found within the data, but a representative sample.
+GPT-4: For cluster 140: +15142378653
++16139858892
++16135390804
++16136081321
++16134849970
++16134387751
++13433644306
+16132149169
++16135832923
++13433333328
++5527999021726
+6134847756
++5527995080403
+16139298800
++16134499075
++13433332480
++16133297785
++16133315933
++5527992684293
++13433336333
+GPT-4: For cluster 141: Forensically relevant info: 
+
+Phone numbers:
++14189292948
++14185297202
++573134336239
++5527998811515
++5527995197646
+5527992273505
++5511992256584
++5521988999621
++5521986134977
++5521981028089
++5527992894347
++5527992489098
++554184032375
++5527999816033
++5519996009667
++553391133838
+16138881228
++5527997731912
++552799577358
++16132177077
++556191362660
++16133890555
++5527999216534
++556781059908
++556796919908
+13433635381
++13439890758
++5521971172871
+16133311070
++5527999610104
++5519991792675
++5527999021592
+16135832944
++15748250090
++16138880810
++5521996129911
++5527999700914
++558597731570
++5527997546622
++16134946009
++5528999619324
++5527999835837
++12139051265
+6135016088
++16138627436
+13910509237
+6132197868
++16138522394
++16137150320
+6134043755
++16138692193
+6137960388
+6139522687
+13801133341
+13701199373
+13717694842
+13902172360
+13910814754
+13607114020
++16138757800
++16134626766
++16134000200
++16138841919
++16132223485
++16139866988
++16134106311
++16137979367
+6138161698
++16134474567
++16135745555
++16133552226
++16138688914
++16137960388
+6136709343
+6136011576
++16134628707
++16137959407
++16138645714
++16138793907
++16137975534
++16139150916
++16138902429
+6134153189
++13435500815
+6138591698
+6138189897
+861062544208
+861062362954
+861068495915
+6136008012
+6136121686
+6136984367
+13501379710
+13661233663
+9178555106
+6133284887
++16138887832
++556182874206
++18593121984
++5513997849962
++5527981117914
++13433339644
+6132143496
+6133285014
++5527999813865
+6139851632
+9057165020
++5547991896510
++16138881228
+6135321540
++16137704449
+6472195094
++16134535987
++5527998344001
+6135836988
++16133292511
++16135831781
++13439892769
++16138936484
++556199710557
++16138405455
++16136509603
+6133602364
++5527997451314
++5527998920523
+2733457373
++5527998017709
++5527999486689
+6139298800
++5527998308022
+GPT-4: For cluster 142: Forensically relevant info:
+- &2AD67A8548E2A180F683E6BA5E65EC14
+- &FCA2663D23858AA322C27857255E7EF9
+- 80C79441E84815141D07BD918133FE18
+- &80C79441E84815141D07BD918133FE18
+- &232994F3BDA54CB377F44C5A06B92076
+- A5F28C480EF6BE3B054A80C8146891C0
+- &A5F28C480EF6BE3B054A80C8146891C0
+- 9B64DBA0BA8A91C4A7869AE59C07ACAD
+- &9B64DBA0BA8A91C4A7869AE59C07ACAD
+- 92A995DB4F1B2FB53ED237E52FFDE37F
+- &92A995DB4F1B2FB53ED237E52FFDE37F
+- IPOD_~16LCF
+- AUDIO_~5BIN
+- &64FCDE08AFB3D1E20835B08B56ED5DC8
+- <gender>Female</gender>
+- 75B83BF56E74BE9F
+- &A1E67AA233BF2F4739382673404AFD7A
+- ACA820574A6A65B0508A91E47A2BC45E
+- &ACA820574A6A65B0508A91E47A2BC45E
+- &534AB4740B1F1237FE76993002971EEF
+- 1B3653D51D6F64341D9C9F5DC3E1DCC8
+- &1B3653D51D6F64341D9C9F5DC3E1DCC8
+- 0E280E6F12F474CEBB8FECA061BC54AC
+- &D316BA2697D17D5DDC407DAEE7F323A6
+- CA43544F70C24A7D395B0757DA6F9D89
+- &CA43544F70C24A7D395B0757DA6F9D89
+- D316BA2697D17D5DDC407DAEE7F323A6
+- B7F5226FF588199C3BEB065BA942ADE2
+- &B7F5226FF588199C3BEB065BA942ADE2
+GPT-4: For cluster 143: IQS100176_02
+IQS100176_02_JC
+DP_MA~16BIN
+DP_MA~20BIN
+DP_MA~21BIN
+&9C1C23AAB39D6A443E0C10C38CD94FBE
+GPT-4: For cluster 144: - <age>Adult</age>
+- 0read_month
+- Mread_duration_hms
+- PHONE~25LCF
+GPT-4: For cluster 147: Forensically relevant info:
+- <langcode>SPM</langcode>
+- <langcode>FRC</langcode>
+- <langcode>FRC</langcode>9
+- RADIO~12LCF
+- STREET_NAME
+- <bitrate>270</bitrate>
+- <coder>155mrf22</coder>
+- <overheadframes>06</overheadframes>
+- <voicemodel>dri40_155mrf22</voicemodel>
+- TARGETINSTALL%\\languages\\frc\\speech\\components\\apdb-cs_julie_audio_f22.dat
+- PHONMA~1DAT
+GPT-4: For cluster 148: senollirt-
+GPT-4: For cluster 149: 7EBF3ADF6F431158A360CD45BD715A22
+EC832D86D93E639F7D74367CE0F50F9A
+3673D43C1BDE06975247D36B1DAC11A9
+A9272EF25
+6FDAD37299C57B6FBB977293F6A6823D
+78BDDFDCD86FC5884
+122ECA001482887336E790DCE699B07B
+10E2E79D616346CC39AD126C629CA028
+2BFF244CA0F7C42C749F2652915638E1
+02CA36A4B45FE917B1645B5F87AF580D
+DF7B1E106127BD4311F55DFF8E57B307
+2D592CE3FC79F2D1B
+AFCF095A85CB45CF8401615AF9
+E560217E9B1E2C79209B6781D59AEAFC
+EC92A7C16B0E1656516BB285
+85F5A7B8C9B6699B
+4CC1B36FD79FABE8E5371D2239A7AAB2
+B0398DA77E2EA060033AF5C5CC95107F
+6C1560693D83C2933277D9346133B472
+D2058A9F7E0DC660E4F2F9E8C89134CC
+6C31CEA004727985D1A4BD17C1B844A5
+3B234A22F9E5F0A6CAF0C155
+59AA674B5512743C76A7EB387D39E293
+IQS100141_03
+GPT-4: For cluster 150: br1507ro1502machado1503leo pmv1504nelsinho1505aracaju1506sergio
+GPT-4: For cluster 155: E2161536ACD519E25EBEC0D02CC8F357
+B88F03981E5610C13ACEA44FDC13077F
+A9272EF25840A4EEB939F50946EE15C6
+959E3844D7995CFB8C3B5375A48CDEF1
+CCB8EF055D57D8571F2C79B7183E0868
+EF33993AD5C040EDF44FAB9452116E5D
+DFBE3781B0D2B1C5CCB9F3807EE53456
+116F88B2567DDEAB2AB8E7F0673E26DB
+FF31F14BF82ADF
+12971573F45E92274E18F393FBF0187C
+DF0D84EF1D78CFCEC8C38C3B69085855
+22CFC321F640192DE49118DDF803B3A0
+AUDIOC~5LCF
+AUX_M~17LCF
+IPOD_~17LCF
+IPOD_~19LCF
+003B183D2DCD564E3CDE10F7A740C74C
+8144F1A4E4218E582D5BC86B4B01373A
+E01AFD7EDBD2334331096189389C05C2
+800138E0799E94B7
+B51D6ED3F63F88D30F670B0FC22E486D
+7BD4A05824C685254F772B2D913C7E23
+8A471CCE71925B4318C
+D7052319F0D5881BFFCE909BF40169BB
+C20CF30AF50FDBD368DE1CF3223940FD
+GPT-4: For cluster 156: IQS100186_01
+IQS100180_01
+GPT-4: For cluster 157: 1. <voice>spmuni</voice>
+2. AUDIO_~1BIN
+3. AUDIO_~3BIN
+4. AUDIO_~6BIN
+5. AUDIO_~7BIN
+6. Dread_duration
+7. IPOD_~22LCF
+8. IPOD_~23LCF
+GPT-4: For cluster 158: DP_TR~19BIN
+DP_SE~19BIN
+A4F88969FB0AE3F2C21D6
+&1B1DEBA212984A99ED8CE056E967D261
+GPT-4: For cluster 162: 8E3C0AD4F7CAE65BD7F063FBE3341B7E
+1130C17CF699B018D07292048D19F177
+FD835BC127AC196355388BD8DFE8DBEF
+2695B85F168F332D7FD56312773F19C2
+5BEC9106C51DAD8CC3DC254669407FCA
+CAEE68013DB4772B418A8A0F815FED47
+AUX_M~22LCF
+AUX_M~23LCF
+BT_MA~13LCF
+BT_MA~15LCF
+82C2AD4F3F745C5835D45E18D2439A07
+4DC2607B49503D2002032B1E4A680B0A
+LH_MAPPINGDATAENU
+7AD075B89E02B52958105FA96456C9CB
+3FA10BC2800610C583B450522A6FA71D
+BFE8A4E253BCDDAA1C3308B9050E5420
+C026C0B24A7491026B3C6D8026F11903
+5F8F511F44CE29AB7714DF6463EF389A
+EHPARGARAP
+SEHPARGARAP
+784B16695E99001EEB5DE
+GPT-4: For cluster 163: Forensically relevant info:
+1. 47E309CB360DC2D4C25B27F068B367DF
+2. 52D34741A7579ADAFA5060F0FB9
+3. 9326D63811B36C9303604572F55B04B3
+4. 83FF46D9A08F1844855E5B9FA619F0AE
+5. 1F7DF3F7A114E855D94C150DA1947A4D
+6. C01352C15A8B101682135C50177D0B90
+7. 1C7FF9FE062AFF28396FECCD203F48C4
+
+These alphanumeric sequences (7 items) appear to be potential hash values that may be relevant for forensic analysis.
+GPT-4: For cluster 165: 1) <fecfg>mpthree</fecfg>
+2) <fecfg>vadvde</fecfg>
+3) <MP3CD-LIST>
+4) MP3CD_~2LCF
+5) MP3CD_~6LCF
+6) BT_MA~17LCF
+7) RADIO_~6LCF
+8) SOHKITEMMASP
+GPT-4: For cluster 166: 1. IQS100170_03
+2. IQS100170_01
+3. IQS100170_02
+4. IQS100178_01
+5. IQS100170_03_JC
+6. QS100170_02
+7. IQS100173_02
+8. DP_TR~17BIN
+9. 36C717972C0774465CB3093615A854CB
+10. 2BF9800126C26C755DE642D187820A58
+
+These alphanumeric codes could be forensically relevant information such as part numbers, device codes, or other identifying information.
+GPT-4: For cluster 168: Bread_number_address
+kats/Vkats/
+read_cardinal_dot
+read_number_address
+GPT-4: For cluster 169: D100193_02
+GPT-4: For cluster 177: - <BROKERSTRING>pipeline/Mexican Spanish/mpthree/transcribe</BROKERSTRING>
+- <FE_DEPES>fe/fe_depes</FE_DEPES>
+- <INET>inetspi</INET>
+- <PHONMAP>phonmap</PHONMAP>
+- <BROKERSTRING>pipeline/Mexican Spanish/vadvde/transcribe</BROKERSTRING>
+- <BROKERSTRING>pipeline/Canadian French/mpthree/transcribe</BROKERSTRING>
+- <BROKERSTRING>pipeline/Canadian French/vadvde/transcribe</BROKERSTRING>
+- HelpAuxPrompt
+- <BROKERSTRING>pipeline/American English/cfg2/transcribe</BROKERSTRING>
+- <BROKERSTRING>pipeline/American English/samantha/22/dri40_155mrf22/Text/pcm</BROKERSTRING>
+- <AUDIOFETCHER>audiofetch</AUDIOFETCHER>
+
+All other sequences of characters seem to be random or encoded data.
+GPT-4: For cluster 178: v2.1.5_mpthree
+<BROKERSTRING>pipeline/American English/vadvde/transcribe</BROKERSTRING>
+<BROKERSTRING>pipeline/Mexican Spanish/paulina/22/dri40_155mrf22/Text/pcm</BROKERSTRING>
+<BROKERSTRING>pipeline/Canadian French/julie/22/dri40_155mrf22/Text/pcm</BROKERSTRING>
+<BROKERSTRING>pipeline/American English/mpthree/transcribe</BROKERSTRING>
+GPT-4: For cluster 179: 54C879961F5DBF4F3C0EE530BEE0D2C5
+A60AF1ABCA56386468726551E12B98E9
+B4C5DD132C7C11D577A18F04C06BE005
+22F8034C5B33F6E46F90D0329F117052
+C6F4831F6C148C2A8BC116CE7DC3969D
+5E02B391EE4A40C1BA8
+GPT-4: For cluster 185: dict_default.utf8
+GPT-4: For cluster 186: Forensically relevant info:
+- 9D6613C424FFEB782E9FADC45A4DB54C
+- (\\s)*((CD|cd|Cd|Disc|DISC|disc|Disco|DISCO|disco)(\\s)*(\\d)+)(\\s)*
+- &9F2167FE58E004D8634AA3578F6DBC0C
+- 6C50D7D89357F8A30522A69B40A6F3C7
+- &6C50D7D89357F8A30522A69B40A6F3C7
+- 66351CDFC74EB0E6923116BE396D0F50
+- &66351CDFC74EB0E6923116BE396D0F50
+- 9F2167FE58E004D8634AA3578F6DBC0C
+- 1D33CE72631E15D9C37091CD40B6CFDD
+- &1D33CE72631E15D9C37091CD4
+- D896A486DAD75713EA34CD3162210FC7
+- &D896A486DAD75713EA34CD3162210FC7
+- 15A1E2D630CE3E867E486F1A09FD76A4
+- &15A1E2D630CE3E867E486F1A09FD76A4
+- &B907BC2AD791C195977932DBB16E83A2
+- C3A1C68F9EB4EB5E82B338C743598B1B
+- &C3A1C68F9EB4EB5E82B338C743598B1B
+- BB2ECB2463D477E7714807E1B34146D4
+- &BB2ECB2463D477E7714807E1B34146D4
+- &E989D1C06CE09C130CAABC1D23E7CC96
+- E989D1C06CE09C130CAABC1D23E7CC96
+- 798D703E7E4FE37235CE5CD265288142
+- &798D703E7E4FE37235CE5CD265288142
+- &F01DA4FCB65B4FBD51C140D69614404D
+- 06A2EF9E4032CDF8CB4C88F175D6F7FE
+- &06A2EF9E4032CDF8CB4C88F175D6F7FE
+- 9649C7798B8C706EFA30BEF8752ACEE1
+- &9649C7798B8C706EFA30BEF8752ACEE1
+- CE56923BC7EF86F1B67F825F378FDB1
+- &CE56923BC7EF86F1B67F825F378FDB16
+- E4DC8EDF5E4D527E378A4A46E8344F35
+- &E4DC8EDF5E4D527E378A4A46E8344F35
+- &6C31CEA004727985D1A4BD17C1B844A5
+- BD1253951B98F9C82C029A0D3AF9BEFD
+- &BD1253951B98F9C82C029A0D3AF9BEFD
+- &1FE907B187D48C1E921F9F32D312DBC4
+- BA0AE514DE1C772AE8A632EB18F95525
+- &BA0AE514DE1C772AE8A632EB18F95525
+- &53286D180242A44F5D4C5ACAC80E1F94
+- 50C53B26F6D62CFA0546F33FA5B1B921
+- &50C53B26F6D62CFA0546F33FA5B1B921
+- 8130817607ADC62E29109CABCCF96D84
+- &8130817607ADC62E29109CABCCF96D84
+- 00EF7723A67FC0D3FAA284FAFE0CA96E
+- &00EF7723A67FC0D3FAA284FAFE0CA96E
+- 8DC072E551E728B31A75A0E6019F975E
+- &8DC072E551E728B31A75A0E6019F975E
+- 658137BFFDDAE2D9DF20BF2C94F674A0
+- &658137BFFDDAE2D9DF20BF2C94F674A0
+GPT-4: For cluster 188: a1219Work1220DC53805AFDA13B554FDDesk1216Jets1217Metcalfe1218Pizz
+a1226Work1227BC8FBB0876F96A2E971Desk1223Jets1224Metcalfe1225Pizz
+&622A327AEDD9294B2BE6B026B3B49132
+&162505F5C798F600ACC9130743E56BB9
+&1B0583878B1650E47B547DEE9580F451
+iane1370Yan1371Zeca1372Zu1373366Thiago1367Titina1368Vitor1369Viv
+&EB6764B0FE5CAE2A991427233EADAB8F
+iane1371Yan1372Zeca1373Zu1374367Thiago1368Titina1369Vitor1370Viv
+&2D4DBECFFD336DCD1B2A9D15201EC1D2
+GPT-4: For cluster 192: dt_frc_mpthree
+IDLE_P~5LCF
+GPT-4: For cluster 193: Stacie, Danny, Tamara, Rafa, Thiago, Vivia, Zu, Viviane, Yan, Zeca, Titina, Vitor, Miane
+
+33C5B7720A61925D476353294CF42934
+
+A254C37C3C3EAC0AD4F1C990C477BFAA
+GPT-4: For cluster 196: 8D5E967611F0FCD7E1B87A3524906345
+9BEC15B52BC4BCA875F0AE1ACF1D3F42
+A1C6456227D8E5DF8D9101C0917608FD
+B14F7A4725471486F8EBEE607DCFA652
+478A8EBBD2C18A289312C641FD9C29D3
+428D14F27FB4073FE15C703AB7028A3F
+D66CEF522B214C0284BE2EDA0C8A806A
+75952C546F254B088B4B32C1A805DE8E
+86116F3A4961D5F127D08A181DA57CC7
+BE3BBF6DF34B317E62F7CAF25E8A171D
+DAADDA1C3E6B32407A348EDDAF45A670
+35C353CB3558B2246CE906C17D89D94F
+E906C17D89D94F
+EEA707D470AB40AB71006AA323B45A56
+1B262890728321548A6AEAEEFC76AAC0
+8E95AC81C3796805204DAAC3C5E1CA85
+
+These strings appear to be unique identifiers, possibly representing file hashes, serial numbers, or some other type of identification. They are likely forensically relevant in the context of an infotainment system.
+GPT-4: For cluster 197: IQS100141_02
+IQS100141_01
+BA51FAB90F746AD610E17D0CA6303481
+GPT-4: For cluster 199: <COMPONENTS>
+<COMPONENT>xcoder</COMPONENT>
+<COMPONENT>pp/text</COMPONENT>
+<COMPONENT>fe/fe_udwl</COMPONENT>
+<COMPONENT>fe/fe_unixlit</COMPONENT>
+<COMPONENT>fe/fe_initlingdb</COMPONENT>
+<COMPONENT>fe/fe_abbrtn</COMPONENT>
+<COMPONENT>fe/fe_puncsptn</COMPONENT>
+<COMPONENT>fe/fe_oneword</COMPONENT>
+<COMPONENT>fe/fe_hmogrph</COMPONENT>
+<COMPONENT>fe/fe_normout</COMPONENT>
+<COMPONENT>fe/fe_global</COMPONENT>
+<COMPONENT>fe/tokentn</COMPONENT>
+<COMPONENT>fe/fe_abbrtn0</COMPONENT>
+<COMPONENT>fe/fe_puncsptn</COMPONENT>
+<COMPONENT>fe/fe_pos</COMPONENT>
+<COMPONENT>fe/fe_phrasing</COMPONENT>
+<COMPONENT>fe/fe_promptorth</COMPONENT>
+<COMPONENT>fe/fe_puncsptn</COMPONENT>
+<COMPONENT>fe/fe_prompt</COMPONENT>
+<COMPONENT>fe/fe_deinitlingdb</COMPONENT>
+<COMPONENT>uselect/bet1</COMPONENT>
+<COMPONENT>synth/bet1</COMPONENT>
+<COMPONENT>audioinserter</COMPONENT>
+<COMPONENT>phonmap/mrk</COMPONENT>
+<COMPONENT>xcoder/mrksync</COMPONENT>
+<COMPONENT>fe/fe_puncsptn</COMPONENT>
+<COMPONENT>fe/f1</COMPONENT>
+GPT-4: For cluster 200: "KAl-*"hI-st$-ri-*"d@n-lOd
+"d@n-lO-RIN-*"Kan-
+"fOn-*"bUk-*"d@n-lOd
+GPT-4: For cluster 206: BT-DIAL-INTERNATIONAL-INIT
+BT-DIAL-INTERNATIONAL-INPUT
+BT-DIAL-INIT
+BT-DIAL-INPUT
+sysdct_spm_mpthree
+dt_spm_mpthree
+depes_frc_mpthree
+normal,sms
+2-normal,sms
+GPT-4: For cluster 207: FDF7F2EAA447DEFBA773D1E1211687B6
+C2608E6C859DD907E6357E20CF3E97D1
+sysdct_enu_cfg2dr
+2-normal,sms,curren
+CUR-normal,sms,curren
+sysdct_enu_mpthree
+75ED871099B8511D0CDECD5A9D9086AF
+D4796F9C8B85C8EEB0C3706EC0373610
+C76D14AF8A1162AD926EC0DA634CF754
+87057A901261EDFCAC91F36FFE673520
+2DD3CC54D20C491D4C09D3FD5E44E042
+F0F51DA8DD48DCE3441E442455A95F9E
+thousand_one-hundred_forty
+DP_MAP~1BIN
+DP_CO~23INI
+WM/Provider
+405800EB0AD48764A25B1638AD5ED8FA
+GPT-4: For cluster 208: - DP_TR~23BIN
+- 7,381
+GPT-4: For cluster 209: <VAD-LIST>
+&PRIORITY>12</PRIORITY>
+<PARAMETERS>
+<RESOURCE content-type="application/edct-bin-dictionary;loader=broker">
+VAD-LIST-NUMBER
+<VAD-LIST-NUMBER>
+&3F35D109C9F8A291B3578E116A684EE9
+&A75D73F04F904C44F5280171C9896F1B
+A75D73F04F904C44F5280171C9896F1B
+907CD4306C6F7A68E158514D73BE3559
+<voice>frcuni</voice>
+<PRIORITY>4212</PRIORITY>
+<RESOURCE content-type="application/edct-bin-dictionary;loader=broker">userdct/enu</RESOURCE>
+<voice>Paulina</voice>
+<RESOURCE content-type="application/edct-bin-dictionary;loader=broker">userdct/spm</RESOURCE>
+<voice>Julie</voice>
+<RESOURCE content-type="application/edct-bin-dictionary;loader=broker">userdct/frc</RESOURCE>
+:UNINSTALL
+GPT-4: For cluster 210: TNFTLHIDDENSIGNATURE
+TNFTLHIDDENSIG_BCH01
+IPOD_M~7LCF
+GPT-4: For cluster 212: blu-*tut, te-"le-fo-no, mu-si-ka
+GPT-4: For cluster 213: Y-Pad
+blu
+GPT-4: For cluster 214: <VERSION>NUAN_1.0</VERSION>
+PHONE~23LCF
+GPT-4: For cluster 215: 1D4354C685267265A91BFB4A369D03BA
+059DA6D6FC36D1779AD477BC742D76A3
+C524770A0887ECD697765635F542550D
+0B33F211EFED753D04424C66895044B8
+473AEB75194058BAADF2C5EE40508B62
+99C54A13CEAAD4B09F543205357F5215
+63F2D0D6BC207F767AEED7546A5E262A
+5FB04C3FFA6B00299CB21616FBBE3FA8
+F3F2B13C7ADCB1D01B67D30B8DD2C0FF
+F77F31E0488F2529FB7A1E8103F9DC21
+CA332478F4D03B5DBCEDAEC59187AF63
+AFBBCCDE6B5710AB68B2CFA0D10A10D6
+768BCECEA2AF0AE814F3BB2CE1EF013E
+D13DEC43275E2EA978A083C93863D5C7
+BD10574958E3A8DF8D30AE437F4EEF9A
+9ABDB77008924C89AEBD88B2D6705498
+1100C9302943A5D5FABB58D73B3EA8E5
+1CA0EA98F07954AC4BE6A65AEFED3C81
+IQS100184_02
+
+These strings look like potential forensically relevant information as they appear to be hash values or unique identifiers.
+GPT-4: For cluster 216: 5Marquinhos46Maya47Mhari48Mikey49Pai50Savy51s42Rohr43Mae4
+&3EB6E39BE9ADB8B0C1C0BFFCEB44AB90
+&6B124FA760FB9D10B4072E8CFBE09C38
+&3310773E971740BB72F9A37E998F716C
+89Desk1225Jets1226Metcalfe1227Pizz
+&1A2C0035D1CFEA8E01FA79EFFA6C94E
+5476D3B65FE470CF9D66A0FD96D44BA3
+GPT-4: For cluster 218: - 880E103BC80B52BF
+- <nativetypeofchar>utf-8</nativetypeofchar>
+- AB58C074DCE1BEDC0A94845EDE932E8E
+- D2C1BD4B0D249A69843FC864B193B3E6
+- 7AE5227BD89DEC72F2A0E7837D11CE62
+- 40672B3A14F9661255D2AAF02EF11285
+- BAA6FCDAE03E6CD2D3D7ED19C397627F
+- AUX_M~25LCF
+- AUX_M~26LCF
+- AUX_M~29LCF
+- IDLE_V~1LCF
+- IPOD_M~1LCF
+- MP3CD_~1LCF
+- BT_SMS~1LCF
+- IDLE_P~3LCF
+- PHONEM~1LCF
+- RADIO_~1LCF
+- RADIO_~3LCF
+- HelpConfirmPrompt
+- <audiooutputmimetype>audio/L16;rate=22050</audiooutputmimetype>
+- <nativetypeofchar>utf-16</nativetypeofchar>
+- 70DC0AE524C8F6435F010B83C0B1FC47
+- 7AC3872A5B3C46F7C80BB94469207E72
+- D64059930943DA0261265190DE3AC8CB
+- 38F4914E19E53C4C1C3682A1689A45C7
+GPT-4: For cluster 219: - IQS100190_03_y
+- IQS100165_01
+- IQS100177_02
+- IQS100177_02_y
+- IQS100177_01
+- D100193_01
+- D100192_02
+- 39CBE6E278CFEAFC765036B
+- DD034C7DF98C5294D0F02C0A9EBE3DEF
+- A425B0A41AB42ED72566247492C833E0
+- AADFD58F95829A912794AF729FCD3FC0
+- E89252B20DB430B4C64CF4706894BA17
+- DAC5BFB687E8C707C61A2DAB78CF61FA
+GPT-4: For cluster 220: br1505ro1500machado1501leo pmv1502nelsinho1503aracaju1504sergio
+br1499ro1494machado1495leo pmv1496nelsinho1497aracaju1498sergio
+GPT-4: For cluster 228: Forensically relevant info:
+
+9FCB3E171B25EC255D17C384A303F2F0
+6D2F757AEB51F129F0D0C3D6EBB544D3
+0E8DEE3281F814E51AE3FD3755BF8405
+37EB962C86C1F5D86F73C0F328725D10
+F80A595DC9EF3830811AF42B0D0D62A1
+21A7251B506714FB73E69133F9F0A76C
+B14E7A58E3955A4820155603E551D90F
+37CAF8E56B82B84847D32FC629C50DA3
+8604D873FC53C1EAEA1F0BA1C5FB04B0
+6EFCF3BD056E87F2DEA1B63B3EC553CF
+7A29665FE1460C2BBD8A23349FEF9BD2
+DABB5D487F29758CF8830CE9D1028970
+2B09DE11064E58DAAEAC79D22F27A0A1
+1EBBEA82B00410B88541B3E5A0818F64
+320B2D622A02CDCDEE08250729D6F695
+22CFC321F640192DE49118DDF803B3A0
+AUX_M~27LCF
+MP3CD~12LCF
+PANDOR~5LCF
+RADIO_~4LCF
+RADIO_~5LCF
+E88DCE397E06289A8A2AB501F756E0D7
+D5CD1582B9202E522B7A4C07CE0B3F78
+14A0E90A5F452A59E2EE83E774187E6D
+618C80A5936C1735A0FDA8AAC2F7AA29
+94AF76433F7394CC1D2ADB2477803A0D
+71252695CF6EC4CAE1332F8991A963C3
+CB27B4F05BFA19184
+GPT-4: For cluster 229: Forensically relevant info:
+
+1) read_number_address
+2) el-*"nu-me-ro-*ke-*so-li-si-"to-*"no-*"es-*u-na-*op-"sjom-*"ba-li-da
+GPT-4: For cluster 230: Forensically relevant info:
+
+1. <BT-PHONEBOOK-NBEST>
+2. BT-PHONEBOOK-NBEST-EXTENSION
+3. <BT-PHONEBOOK-NBEST-EXTENSION>
+4. BT-PHONEBOOK-NBEST-EXTENSION>
+5. AUX_M~19LCF
+6. MYMUS~23LCF
+7. PANDOR~8LCF
+8. PHONE~19LCF
+9. PHONE~29LCF
+GPT-4: For cluster 231: Relevant information:
+
+1. IQS100182_02
+
+2. 45542F25FAC9B0A3679AC02A576DA213
+
+3. 98EA7EC19A413019F3F4935B347EE1A9
+
+4. PHONEM~9LCF
+GPT-4: For cluster 233: 2A4A8480647552520E1BE515B8B5DA9D,
+FCBE00CAF94089335B2237D726453B5E,
+A30AB2214358EBD47AD5,
+3DD50CC7CAEA0680A38E04A9DC5C44C5,
+5A3ECB561BEC150C8DE1DE0413AAED3C,
+F7CC9C1F20FAEA793830A5DBAF5F5676,
+09A4122C766E503A74CD23E3BAA43A23,
+0F39F5EA9BEEDA6C35BC740E1970E021,
+B57FF18F68403327123062922525B109,
+FADF92209F4523B3A5EE2FE3B3C9F80C,
+BCA66AD40CA4C404,
+879FD556806DCC98F09A9F,
+21535A5C2135F4DFF8A410432E15A3B1,
+FC3D478117B75CD85F8A41E4BD2161F5,
+DAAF57943CE5AF106D8FDF601EF69E00,
+1FDC843EB7ED31C831E711C47ACF8179,
+347906149CFDCE1C7AE8A5EAC13B962C,
+910BF315406B4C61141E6F3105603D86,
+23A651BDB48EDDFFD9C2,
+FD38199CCE810C9B33F94B2E631C12D1,
+D9B0B00BFFAB27074494CDF7DFB85B0C,
+F77F31E0488F2529FB7A1E8103F9DC21,
+BF0FE637376C652167026CE9DB927475,
+71D84B47DE5C39599EF4A6F2A043535C,
+179A5734F529A603CAB68D25470B5861,
+CD492029DCE59BC506C9B002CE9E6070,
+B50395CD19C3B2D86144625AB757C8DF
+GPT-4: For cluster 234: IQS100190_02
+GPT-4: For cluster 237: LH_MAPPINGDATASPM, LH_MAPPINGDATAFRC, 9A5E2A2D56383872, E2309F2982818EE92278B3E3F566F236, 1DCA7274E0A949247EFBC2365C8A1568, 761EBC172F17808B3E86629E83FCC0F4
+GPT-4: For cluster 242: dIsk
+GPT-4: For cluster 243: SCANSOFTdepes
+EB263A1EF58A
+6F499E41E0D
+Recomposer
+BT_MAI~1LCF
+CD_RE~11LCF
+IDLE_P~1LCF
+PANDOR~1LCF
+DEBBDA94EAE20
+F8014F1B8A0AC52738380CC789AE4203
+person,city,
+spell_cardinal
+GPT-4: For cluster 244: IQS15_0205_01, Patrollman
+GPT-4: For cluster 245: Glenn Cocopaving
+Nicholas Repaci
+Nadia Fraternidade
+Julia Kinisiology
+GPT-4: For cluster 248: SIRIUS~9LCF
+XM_MAI~9LCF
+&6006811E64D0A64C346E268EB1BD838B
+B03F3BA6442E4687A0FB41D8F78CF157
+FFD0CDFBB3DB65DB0110A00540F937B3
+08CDF8AB5DCC6514233140B06C49763E
+E7AE0225E28C4A15423A1F37450A354B
+54ADE6830089FD0
+6362C0BB96DD3ECB5542062BE9946B7D
+2FCAE8E835410393122A2F32A49848A7
+Carpeta aleatorio
+ACMOD3~2DAT
+B3D03D583BA2E7D0916EB7DE599E8900
+IDLE_P~9LCF
+PANDOR~9LCF
+PHONE~18LCF
+21C29B529D968AD731ED8
+D3AE0921C29B529D968AD731ED8
+85D59D1817F323714FC8D274BF15D11F
+<audiooutputsamplebits>16</audiooutputsamplebits>
+<langversion>5.2.2.9345</langversion>
+<&7B61413D7E4195BEFF27EF489EBA9803>
+AC87CE5A672942D43CF76A9752B53AD1
+GPT-4: For cluster 249: infotainment
+read_cardinal
+noitpircsnart
+suisanahtA
+ENITNATSNOC
+COMPONENT
+langversion
+supermanzana
+GPT-4: For cluster 250: Ravanellos
+Kinisiology
+Carlinhos Cunhado
+Vitor Advogado
+&6CCFB21A1B6D5CB8EE9417B076A9505D
+GPT-4: For cluster 251: 7676FF53A97851654D32EAD8E846AFE7
+PANDORA-SORT
+SIRIUS~4LCF
+SIRIUS~5LCF
+SIRIUS~8LCF
+00B97ECAF2E19CE6FDA69C49C51B4AD5
+EACF8E5EB80EA9733D84AD7DC45A2EBC
+20E9EC1EAF77270513609B61E9B237AD
+EC73910C1E92B4B07FFB31F160B4CAC3
+AUX_M~24LCF
+PANDOR~2LCF
+8A5C0EA81609E3D58558B6DD13825A72
+0D0C7AC5350DC4B384F2B476E630EDD2
+534AB4740B1F1237FE76993002971EEF
+E7192A2680436440
+A047EC88A763D98EE740B33140FE9662
+PANDORA-BOOK
+
+Note: These strings seem to be forensically relevant with potential identifiers, system names, and codes.
+GPT-4: For cluster 252: A8516AD322C35FBC29E6EA99B859F36E
+B7BF8260E48FCE11E37A88186B0A19CE
+24D62CC0229288549864AC154E5C4A2E
+0813F144DB9D46F2
+MMY-CALL-AC>
+desactivada
+desactivado
+"%#[200]vu-*pu-"ve-*"
+"%#[1]pre-se-"
+GPT-4: For cluster 253: 001F2B370CCEF84C7D1F86D8
+&9C9DCD9825251824B36702D0453BE034
+k27487A0F3AA079EB03A1B75E6EE448E
+Fraternidade
+Costureira
+GPT-4: For cluster 255: Carpeta previa
+desactivado.
+ACMOD3~1DAT
+7698;:=<kGJXHULE
+SMSPRIORITY
+partementale
+mesdemoiselles
+reilleptnoM
+INSTAL~1BAT
+GPT-4: For cluster 256: v3.0.3_vadvde
+837F8DB196D9F85C1FD2FD827C452EFA
+4B0042EE04450943FA
+IQS15_0136
+IQS15_0135
+GPT-4: For cluster 257: DP_SE~21BIN
+IPOD_~10LCF
+GPT-4: For cluster 258: Forensically relevant info:
+
+- '12345'
+- '22F32C9A160A5970AFA0' (Possible hex string or identifier)
+- '393122A2F32A49848A7' (Possible hex string or identifier)
+- 'ED2B52ACEDB502DFF' (Possible hex string or identifier)
+- '38F4914E19E53C4C1C3682A1689A45C7' (Possible hex string or identifier)
+- 'SIRIU~10LCF'
+- 'SIRIU~11LCF'
+- 'SIRIU~13LCF'
+- 'SIRIU~14LCF'
+- 'AUX_M~21LCF'
+- 'BT_MA~11LCF'
+- 'BT_MA~12LCF'
+- 'MYMUSI~1LCF'
+- 'MYMUS~18LCF'
+- 'MYMUS~19LCF'
+- 'MYMUS~21LCF'
+- 'MYMUS~22LCF'
+- 'MYMUS~24LCF'
+- 'BT_MA~14LCF'
+- 'BT_MA~16LCF'
+- 'BT_MA~18LCF'
+- 'MYMUS~26LCF'
+- 'MYMUS~27LCF'
+- 'MYMUS~29LCF'
+- 'MYMUS~30LCF'
+- 'GEN3_T~1IMG'
+- 'SUISANAHTA' (Possible text-type content)
+- 'petohrefen' (Possible text-type content)
+- 'petohrefeN' (Possible text-type content)
+- 'erbipeteheS' (Possible text-type content)
+- 'VAUTO_~1HDR'
+- 'EXIT_2~1RAW'
+GPT-4: For cluster 259: Forensically relevant info: 
+1. 'men)(\\s)*(\\d)+)(\\s)*' - Regular expression pattern.
+2. '87BD4A8814621DBBAE15DAC7B91E1C8A' - A potential hash.
+3. '&87BD4A8814621DBBAE15DAC7B91E1C8A' - A potential hash with a prefix.
+4. 'BD0B3FF044AE30C857A3556E54C7D4C7' - A potential hash.
+5. '4F4D1ADDE48790EA6391B400E596EA33' - A potential hash.
+6. 'ANAZNAMREPUS' - A reversed string "SUPERMANAZNA".
+7. 'D39FB63169D8F264DD098C6255C6D70C' - A potential hash.
+8. 'MYMUS~12LCF', 'MYMUS~10LCF', 'MYMUS~14LCF' - Possible filenames or identifiers.
+
+These pieces of info can be potentially relevant to the investigation and further analysis.
+GPT-4: For cluster 260: RADIO_8LCF, A1E67AA233BF2F4739382673404AFD7A, IQS15_0183, IQS15_0223_02, IQS15_0223_01, Cocopaving
+GPT-4: For cluster 262: 8FDA8779A2404305911657C78ADA83ED
+5C4E7CE5A97F6AEAC8F9AE39592C7B33
+ECDD662D2929FD5C5D6F13A291CEE4DB
+3DD50CC7CAEA0680A38E04A9DC5C44C5
+4C92A831BB67C2133C8259EBC1A3B51B
+4964F46BFCD8BA455683A1F57CD804DB
+2EAE1B5691EE9F9C4637BCAAC6C75363
+2BFF244CA0F7C42C749F2652915638E1
+BT_MAI~6LCF
+BT_MA~10LCF
+547698;:=<kGJXHULE
+ITM@OXLpE<>
+2CD0393C2956FD2449EF8
+QKF}U:I4~z9
+
+These hexadecimal strings and identifiers seem potentially forensically relevant as they might be related to unique identifiers or cryptographic hashes.
+GPT-4: For cluster 263: FD38199CCE810C9B33F94B2E631C12D1
+5DE912B9748BDBF958C71700ECC1EA1D
+-*do-"sje%#[200]kO-"pje%#[200]?u-*
+%#[200]?u-*bA-lE-"jaZ
+sIl-*vu-*"plE%#[50]s
+-"sI-bl$-*d
+-me-"ro-*"tro-*"l
+-*do-"sje%#[200]kO-"pje%#[200]u-*?
+sIl-*vu-*"plE-*"DIt-*"lIG-*
+sIl-*vu-*"plE%#[50]A-t
+"Ef-*"Em%#[1]"d
+GPT-4: For cluster 265: f16_v2_0_1
+IDLE_~11LCF
+IDLE_P~2LCF
+PANDOR~6LCF
+VECTOR~1BIN
+VR_FIL~1BIN
+<langcode>ENU</langcode>
+<langcode>ENU</langc
+copy /Y apdb-cs_julie_audio_f22.dat %TARGETINSTALL%\\languages\\frc\\speech\\components\\apdb-cs_julie_audio_f22.dat
+GPT-4: For cluster 266: f16_v2_0_3
+BEC993358AD94E5DF717EADFDC2DA087
+D205014_01
+D205015_01
+IPOD_M~8LCF
+_f16_v3_1_0
+GPT-4: For cluster 269: E4AFEE4F2159D43C1A9567D12330C331
+6006811E64D0A64C346E268EB1BD838B
+1D9A32BED87CC809033A208B4506D235
+4095B4431500B53BE762F6D9D0EA4F1A
+04F0FEF445AF348ED06FE18FC8821054
+40D2DC26F8C391D9FDBC87985F91180E
+9007BB16E918128C14146B83F0D0C970
+BT_MAI~8LCF
+MP3CD_~9LCF
+BC2862250D084E32C5257314557126C0
+D77A2E73FDBD813202C3B3A6F63D8E61
+VGWAV_~1BIN
+48EF3831F1491A62214A00CF7F3898AC
+EBEFE659CF4CF65D90D9430758DADE5A
+A6FC53609A51541B95E672C8003384C3
+7FD448D70EEDCBB546D11F0F13F99861
+25A1BFED7DF5A37D3380CDE6AD62EDA0
+59AA674B5512743C76A7EB387D39E293
+GPT-4: For cluster 270: IQS15_0224_01
+IQS15_0073
+IQS15_0073_05
+GPT-4: For cluster 274: Appeler Contacts
+FB309DFCD5BA7E2EF2F35D0C95
+*read_year1
+IQS15_0073_04
+GPT-4: For cluster 275: Zarco-Gonzalez Jr.
+Ben Grasmeyer
+Devery Johnson
+Eder Stauffer
+GPT-4: For cluster 278: Mexican Spanish
+PANDORA-BOOKMARK
+<language>Canadian French</language>
+BT_SM~24LCF
+CD_REA~6LCF
+<language>American English</language>
+7F8A3F3C7160D86CA83A38BE34171E93
+F8A3F3C7160D86CA83A38BE34171E93
+<langid>10</langid>
+phonmap_enu_enuuniD
+!ISO4217B
+<langid>83</langid>
+disamfiguate_punctuation
+<langid>51</langid>
+dieciseisavo
+GPT-4: For cluster 279: U1296 Monette1291Sania1292Sp771293Tessa1294Zach1295Watson Qwats70
+2chen1293mianren1294li1295yuzh
+GPT-4: For cluster 280: EC824ACA31FB1
+BC2862250D084E32C5257314557126C0
+9EFBF30FF0AA0AB9102E6E9022F31BC0
+94B685182B7F9F6ED1154AF9B0ECB2F3
+CLC_EN~1DAT
+DEPES_~1DAT
+DEPES_~2DAT
+RADIO_~9LCF
+<BT-SMS-REPLY>
+GPT-4: For cluster 281: BT_PH~17BIN
+-L br1498ro1493machado1494leo pmv1495nelsinho1496aracaju1497sergio
+GPT-4: For cluster 282: USB_M~10LCF
+1B9D673AE69BD84
+Llamar Internacional
+Aleatorio total
+Encontrado m
+Aleatorio est
+Carpeta aleatoria est
+Sirius Presinton
+Prochaine Page
+C'est la derni
+Sirius Channw
+Sirius Channl
+Y%ktown Hei
+Y%ktown Hei
+cent_trente
+rifiez l'antenne
+GPT-4: For cluster 283: IQS15_0204_, Advogada Roberta, Alessandra Corretora, Andressa Dentista, Carla Cunhada, Carlinhos Cunhado, Cocopaving Glenn, Collato Fabio, Exercito Marcelo, Fabio Collato, Fabricio Militao, Fraternidade Cris, Fraternidade Natalia, Junior Bortolini, Jussi Pulkka, Katty Morissete, Nadia Fraternidade, Natalia Fraternidade, Nilza Delci, Norsul Vanderlei, Rudimar Comando, Ben Mahti Rahmouna, Ademilson Montreal, Giseli Ade, Isabela Vizinha, Aidan Clarmo, Ben Grasmeyer, Clarmo Aidan, Artemis Ignez, Bortolini Junior, Bruno Cristalmar, Comando Rudimar, Cris Fraternidade, Cristalmar Cristiano, Cristiano Cristalmar, Cristina Denilsom, Glenn Cocopaving, Ignez Artemis, Jeveaux Rodrigo, Marcelo Exercito, Meinha Tia, Michell Corretor, Pulkka Jussi, Rebeca Vervloet, Renato Jeveaux, Roberta Advogada, Robson Alfandega, Tia Meinha, Vitor Advogado, Carolyne Veill, Claude Minville, Julia Kinisiology, Grasmeyer Ben, Jake Prins-Gervais, Nicholas Repaci, Nicolai Panciuk, Panciuk Nicolai, Portalski Lara, Prins-Gervais Jake, Repaci Nicholas, Antroliwalla Burgess, Burgess Antroliwalla, Chunxin Liu, Li Zhuowen, Liu Chunxin, Yabing Guo, Zhuowen Li, Guo Yabing, Hu Shenggang, Shenggang Hu, 46CBE98E3A843BCB817A7B0CB, @Caro Bernier, @Jacinthe Leclerc, ACarlos Cardoso, @Christiane Rohr, AEdgard Strauss, AEdmar Paranagua, AGetulio Calgary, @Moraes Brasilia, Raji/ Shata, @Renato Jeveaux, @Liu Chunxin, Lara Portalski, CLesley Chen, rco-Gonzalez Jr., AAndressa Kingston, @Bruno Itau, @Fabricio Militao, AFabricio Orlando, @Joao Vitor, Rodrigo Jeveaux, @Waldemar Pai, @Ze Luis Vizinho, drigo CANADA, Vanderlei Norsul, @Hu Shenggang, @Andressa Ravanello, @Giseli Ade, @Lucas Rohr, @Marcos Filho, @Roberta Leo
+GPT-4: For cluster 284: Repetir carpeta desactivada
+Carpeta aleaF&
+guardada.
+CD_REA~7LCF
+CD_REA~9LCF
+CD_RE~12LCF
+CD_RE~14LCF
+PANDO~10LCF
+partofspeech
+Pread_sep_address
+03ECBA7850D2
+officeteam
+ETSITPAB-NAEJ
+copy /Y apdb_rp_julie_audio.dat %TARGETINSTALL%\\languages\\frc\\speech\\components\\apdb_rp_julie_audio.dat
+GPT-4: For cluster 285: carpeta aleatorio desactivada
+lbum aleatorio desactivado
+aleatorio total
+aleatorio desactivado total
+lbum aleatorio activado
+aleatorio~A
+lectionner l'appareil connect
+soixante-dix
+gorie aimeriez_vous sauvegarder
+channel one-hundred_eighty
+channel one-hundred_eighteen
+channel one-hundred_eight
+Contabil Quantum
+Crislei Quantum
+Quantum Crislei
+"Apple Inc."
+@officeteam
+@Pessoal Empresariais
+GPT-4: For cluster 286: UMBER-DIRECT,
+FCA2663D23858AA322C27857255E7EF9,
+72CB26773C99A36AF3C5B4E4A22F3CA3,
+&72CB26773C99A36AF3C5B4E4A22F3CA3,
+SIRIUS~6LCF,
+USB_M~12LCF,
+81A1711F2585104AC491029D9D5B1585,
+&E727EBCE7F85AA7E40949BA53AA97DFD,
+1phrasing_spell,
+Aread_month,
+>read_ordinal,
+!"%&'()*+,-./023456789:;,
+messeigneurs,
+SUISATSANA,
+moins_que,
+xwvutsrqponmlkjihgfedcba,
+asing_spell,
+TOKENT~1DAT,
+Li67bQ2_hgHT]P>,
+less_than,
+more_than,
+&BD0B3FF044AE30C857A3556E54C7D4C7,
+FCEB0D478FCDD39250460800E1E57503,
+<GLOBAL-DU,
+<GLOBAL-DUd,
+503CE9CF226E,
+5read_ordinal
+
+These strings seem forensically relevant as they contain identifiable information like USB_M~12LCF and SIRIUS~6LCF, which may be related to the infotainment system's components. There are also several strings containing what appear to be unique identifiers (e.g., FCA2663D23858AA322C27857255E7EF9). Note that some of the listed data may not be as directly relevant as others, but they were included due to the possibility of containing useful information.
+GPT-4: For cluster 287: FC7085E02B391EE4A40C1BA8
+6B83494E49614D66BB652ED882
+Andrezza Fraternidade
+Fraternidade Andrezza
+Claudio-Elaine
+Claudio-Elainn
+JacksonviR
+@Alessandra Corretora
+@Carla Cunhada
+@Andrezza Fraternidade
+GPT-4: For cluster 291: <eosdetection>0</eosdetection>
+<FE_DCTLKP>fe/fe_dctlkp</FE_DCTLKP>
+&22F32C9A160A5970AFA0E9A7844500CE
+acmod3_800_s
+acmod3_800
+&E7AE0225E28C4A15423A1F37450A354B
+XM_MAI~4LCF
+&95E2BDC63985448D11C2B1B9A7ADA89F
+acmod3_800_frc
+acmod3_800_
+Auxiliaire
+acmod3_800_enF
+acmod3_800_enu
+Antroliwalla
+acmod3_800_enu_gen_c
+acmod3_800_e
+268AD471184E0E72F79C5FEF396F03B6
+&268AD471184E0E72F79C5FEF396F03B6
+9A18B32A7F28F427C6A85629524AA34F
+acmod3_800_enu_g
+AC0837A68CF99C99
+F94411BB6FB47BA9EE05EE90782604B0
+&5A0908B2344BCDCF6D14324976002FAA
+acmod3_800_enu_gend1
+75DB4A5A9AA670C
+54E40252800E7CA45AA334E9E8DC536F
+ISO4217B[{vxml:
+72D040876F34F7E787
+846F9516C91B78AB8FEC87FC56124A1C
+&846F9516C91B78AB8FEC87FC56124A1C
+1A14AD1BAC61706EAC15F9D4BE465AE3
+pqrstvwxyz
+IQS15_0221
+en-tai-"tres
+Re-pe-"tir-*ak-ti-"ba-do
+"di-ga-*"li-ne-a-*"tres
+bu-"skar-*"se-*"de
+"si-rjus-*"tres-?p
+"mu-si-ka-*de-*te-"le-fo-no
+o-fi-"si-na
+-me-"ro%#[200]u%#[100]Is-tO-"rIg-*dE-*zA-"pEl
+sIl-*vu-*"plE%#[100]"DIt-*
+lEk-"TYr-*A-le-A-"twar-*Ak-Ti-"ve
+"mIl-*sEt-"s
+auxiliaire
+lEk-"TYr-*A-le-A-"twar-*de-zAk-Ti-"ve
+-*Ak-Ti-"ve
+GPT-4: For cluster 292: BE51F8A5D672AEA7B97F5947DA277B32
+Cristalmar
+Vanderley Norsul
+acmod3_800_enu_u
+ARebeca Vervloet
+Frederico
+Jussi Pulkka
+Isabela Vizinha
+GPT-4: For cluster 294: 4D23A87F52FFEBEC51421D5D0C06A8FC
+GPT-4: For cluster 296: D67A8548E2A180F683E6BA5E65EC14
+13183165F85BD0F1E228D82AAC94C134
+312D68B3380422FA4C02F08F71D776D7
+1B447AB7CA20E5780037E16C21938034
+94C99651CAD913504CBE47E514DE65BC
+74FD2BC34F64CDC3FE98398F7F3CDC8D
+F694C0EC1449D55E
+8F891F62F5754DBBD0B0FA9D6D627C11
+01B5DD96770C37671BABF075A098F113
+00318D710B764DF1BE6E33CBB2D8B493
+A1609E8768E8C659C6C33E8EED9F82CD
+FCEB0D478FCDD39250460800E1E57503
+09710ACF28514A2652AF02CB09863B34
+PROPORCIONADO
+GPT-4: For cluster 297: 3420FDB204B96DF0B9FD0A24816E7F8D
+GPT-4: For cluster 298: A4EB736CC8FB6F1D7B17A5B262FD00E2
+&6176FBA90AD1BDD0867B0A151A4F5B6C
+Iread_hours
+Kread_minutes
+CDA311BB20795CDesk1223Jets1224Metcalfe1225Pizz
+<DOMAINMNGR>domain_mngr</DOMAINMNGR>
+4403A4AD88E1F49354B8A53059293C34
+57A67B9403E04C5B29C2642C33136B57
+GPT-4: For cluster 299: VG_US_v0.03_130520
+69461854853CE4751C921FD6FD931E85
+&69461854853CE4751C921FD6FD931E85
+Prins-Gervais
+Zarco-Gonzalez
+Metcalfe1223Pizz
+@Junior Bortolini
+GPT-4: For cluster 300: -DCTEG>-dcteg</DCTEG>
+-SIRIUS~7LCF
+-USB_MA~9LCF
+-USB_M~11LCF
+-USB_M~13LCF
+-USB_M~14LCF
+-USB_M~15LCF
+-BB00ECA9D73876103AD23D957743A1F9
+-D23D957743A1F9
+-Croisillon
+-VRDB_C~1BIN
+-CLC_SP~1DAT
+-_brunswick>
+-onnecticut
+GPT-4: For cluster 301: B0398DA77E2EA060033AF5C5CC95107F
+&91CCBDCE55DC3A1E04FAA554B398A03F
+carpeta aleatorio activada
+uenta-y-cinco
+ek-splo-"rar-*kan-"sjon
+ek-splo-"rar-*"se-*"de
+nto_treinta-y-ocho
+bu-"skarH7
+-*vIr-"gYl-*"'
+-*sA-"vwar-*"pl
+si-*vu-*zA-"ve-*b$-"zw
+*"plE-*A-t
+croisillon
+TYr-*A-le-A-"twar
+"Zwe-*mA-*m
+me-"mwar-*"plEn
+A-le-A-"twar
+nelsinho aracaju
+LucinedesBb
+@nelsinho aracaju
+@Vanderlei Norsul
+GPT-4: For cluster 302: USB_LISTLCF
+<voiceversion>5.2.2.9345</voiceversion>
+<voiceversion>5.2.2.9349</voiceversion>
+-BEGINN~2RAW
+-read_time
+IQS15_0204
+GPT-4: For cluster 303: forensically relevant info:
+- one-thousand_three-hundred_nin
+- channel two-hundred_eighteen
+- channel two-hundred_eight
+- ven-hundred_forty
+GPT-4: For cluster 306: PINGDATAFRC
+7B53ED16CD3408A48
+D40227BC12E
+GPT-4: For cluster 307: QUICKD2 DAT
+Parpaiola ETEL
+JS br1508ro1503machado1504leo pmv1505nelsinho1506aracaju1507sergio
+@Christiano MUNDIAL
+AEdmar SLM
+GPT-4: For cluster 310: Forensically relevant info: 
+
+1. Call records with names
+   - Examples: 'Call Parker Jayden', 'Call Bell Alex', 'Call Cox Jesus'
+2. Names of individuals involved in communications
+   - Examples: 'Parker Jayden', 'Bell Alex', 'Cox Jesus'
+GPT-4: For cluster 311: Forensically relevant info: 
+
+1. List of contact names and associated phone numbers:
+- Eva Baldwin
+- Sadie Moran
+- Kylee Higgins
+- Kendall Ball
+- Jordyn Cortez
+- Kate Le
+- Jayla Griffith
+- Karen Bowen
+- Tiffany Sharp
+- Cassandra Cummi
+- Juliana Ramsey
+- Caitlyn Swanson
+- Giselle Barber
+- Lucy Chandler
+- Bianca Blair
+- Erica Simon
+- Angelica Dennis
+- Hope Oconnor
+- Chelsea Quinn
+- Alana Gross
+- Brittany Moss
+- Camila Fitzgerald
+- Makenzie Doyle
+- White Noah
+- Lee Christian
+- Hall Gabriel
+- King Caleb
+- Campbell Angel
+- Price Wyatt
+- Myers Brayden
+- Kim Jared
+- West Marcus
+- Stone Brendan
+- Rice Giovanni
+- Patel Jonah
+- Tran Malachi
+- Austin Allison
+- Gilbert Maria
+- Jensen Kaylee
+- Williamson Lily
+- Montgomery Makayla
+- Howell Nicole
+- Dean Addison
+- Hanson Stephanie
+- Weber Lillian
+- Garrett Andrea
+- Sims Zoe
+- Burton Faith
+- Fuller Kimberly
+- Mccoy Alexa
+- Welch Katelyn
+- Chen Gabriella
+- Schultz Gabrielle
+- Walters Trinity
+- Reid Amanda
+- Fields Kylie
+- Little Paige
+- Bowman Jenna
+- Davidson Leah
+- Schneider Michelle
+- Newman Sofia
+- Brewer Vanessa
+- Holland Angelina
+- Wong Caroline
+- Banks Avery
+- Cohen Gianna
+- Parks Gracie
+- Mcdaniel Peyton
+- Watts Adriana
+- Barker Christina
+- Vaughn Daniela
+- Holt Ly
+- Schwartz Valeria
+- Steele Layla
+- Benson Alexandria
+- Neal Natalia
+- Horton Laura
+- Terry Charlotte
+- Wolfe Margaret
+- Hale Cheyenne
+- Lyons Mikayla
+- Graves Miranda
+- Haynes Naomi
+- Miles Kelsey
+- Bush Jillian
+- Thornton Daisy
+- Mccarthy Mckenzie
+- Mann Ashlyn
+- Zimmerman Caitlin
+- Erickson Sabrina
+- Fletcher Summer
+- Mckinney Ruby
+- Page Rylee
+- Dawson Valerie
+- Joseph Skylar
+- Harmon Ellie
+- Newton Jasmin
+- Noah White
+- Christian Lee
+- Gabriel Hall
+- Caleb King
+- Wyatt Price
+- Brayden Myers
+- Jared Kim
+- Marcus West
+- Ayden Dixon
+- Damian Black
+- Brendan Stone
+- Giovanni Rice
+- Jonah Patel
+- Oliver >@95
+- Malachi Tran
+- Kaitlyn Lawson
+- Megan Franklin
+- Katherine Lynch
+- Savannah Bishop
+- Jennifer Carr
+- Allison Austin
+- Maria Gilbert
+- Kaylee Jensen
+- Lily Williamson
+- Makayla Montgomery
+- Addison Dean
+- Stephanie Hanson
+- Lillian Weber
+- Andrea Garrett
+- Faith Burton
+- Kimberly Fuller
+- Alexa Mccoy
+- Katelyn Welch
+- Gabriella Chen
+- Gabrielle Schultz
+- Trinity Walters
+- Amanda Reid
+- Kylie Fields
+- Mary Walsh
+- Paige Little
+- Jenna Bowman
+- Leah Davidson
+- Michelle Schneider
+- Sofia Newman
+- Mya Frazier
+- Amy Becker
+- Sophie Fleming
+- Breanna Sutton
+- Gianna Cohen
+- Gracie Parks
+- Peyton Mcdaniel
+- Adriana Watts
+- Christina Barker
+- Daniela Vaughn
+- Lydia Holt
+GPT-4: For cluster 312: Call Valeria Schwartz
+Call Layla Steele
+Call Alexandria Benson
+Call Natalia Neal
+Call Laura Horton
+Call Charlotte Terry
+Call Margaret Wolfe
+Call Cheyenne Hale
+Call Mikayla Lyons
+Call Miranda Graves
+Call Naomi Haynes
+Call Kelsey Miles
+Call Jillian Bush
+Call Daisy Thornton
+Call Mckenzie Mccarthy
+Call Ashlyn Mann
+Call Caitlin Zimmerman
+Call Sabrina Erickson
+Call Summer Fletcher
+Call Veronica Mclaughlin
+Call Abby Rodgers
+Call Jazmin Stevenson
+Call Adrianna Singh
+Call Delaney Yang
+Call Ellie Harmon
+Call Jasmin Newton
+Jacksonville
+GPT-4: For cluster 313: Forensically relevant info:
+- Call history
+- Recent calls
+- Text Message
+- Phone Contacts
+- Call Klein Genesis
+- Call Cross Crystal
+- Call Kennethi
+- Call Genesis Klein
+- Call Serenit:
+- Call Angel
+- Call Sydney
+- Call Autumn
+- Call Brooklyn
+- Call Sierra
+- Call Summer
+- Call Genesis
+- Call KendallOfD
+- Call Serenity
+- Call Crystal
+- Call Green
+- Call Powers
+- Call Zimmerm
+- Call Cross
+- Call Rodrigu\\i
+- Call Christian
+- Call Jesus
+- Call Destiny
+- Call Faith
+- Call Trinity
+- Call White
+- Call Price
+- Call Black
+- Call Fields
+- Call Little
+- Falling Waters Campsite
+- Dispatcher
+- Voice Mail
+GPT-4: For cluster 316: Forensically relevant info:
+1. List of personal names associated with phone calls.
+2. Some names have a special character or partial information (e.g., 'Call Diaz La%', 'Call Rojas L')
+GPT-4: For cluster 317: Forensically relevant info:
+1. List of contacts and their names
+2. Repeated calls made to some contacts (Diego, Antonio, Miguel, Alejandro, etc.)
+GPT-4: For cluster 319: Patrollman Brock Ed, Patrollman Brock Ed Bryan, Bryan Patrollman Brock Ed
+GPT-4: For cluster 321: Data contains a list of names, which could be considered as forensically relevant information:
+
+1. Christiane Rohr
+2. Beaulieu Sophie
+3. Beaupre Alberte
+4. Bergeron Paul
+5. Bernier Caro
+6. Boily Sylvie
+7. Bordeleau Marie
+8. Bourget Helene
+9. Boutin Yves
+10. Brousseau Melanie
+11. Deslauriers
+12. Deslauriers Anne
+13. Dorion Sophie
+14. Doyon Helene
+15. Fiset Sylvie
+16. Fortier Simon
+17. Fortin Julie
+18. Francois Yelle
+19. Fred Paquet
+20. Frederic Theberge
+21. Gagnon Silvy
+22. Christiane
+23. Caro Bernier
+24. Chantal Hache
+25. Charles Quirion
+26. Christian Savard
+27. Cloutier Mathieu
+28. Cormier Lucie
+29. Corneau Johanne
+30. Gary Morin
+31. Genevieve Lapointe
+32. Gilles Pelletier
+33. Girard Jacynthe
+34. Gosselin Josee
+35. Goulet Martine
+36. Hache Chantal
+37. Helene Bourget
+38. Helene Doyon
+39. Isabelle Martin
+40. Jacinthe Leclerc
+41. Jacynthe Girard
+42. Jean Pierre
+43. Jean Talbot
+44. Johanne Corneau
+45. Lacourse Pierre
+46. Pierre Lacourse
+47. Carolyne Veilleux
+48. Julie Fortin
+49. Julie Lemay
+50. Julie Savard
+51. Laurence Pelletier
+52. Louis Turcotte
+53. Louise Sauve
+54. Lucie Cormier
+55. Chad Beaulieu
+GPT-4: For cluster 322: Forensically Relevant Info:
+
+1. Names and possible contacts (e.g., Smith Jacob, Johnson Michael, Williams Joshua, etc.)
+2. Infotainment system may be associated with call records or stored contacts.
+GPT-4: For cluster 323: Forensically relevant info:
+1. A list of names, possibly contacts:
+   a. Gibson Brady
+   b. Bryant Colton
+   c. Ellis Kenneth
+   d. Stevens Joel
+   e. Meyer Travis
+   f. Mills Peyton
+   g. Warren Conner
+   h. Schmidt Braden
+   i. Nichols Bradley
+   j. Ryan Edgar
+   ...
+   (Full list of names provided in the data)
+GPT-4: For cluster 328: dulo U_S_B
+NO DISPONIBLE
+dieciochoavo
+mil_quinientos_c
+GPT-4: For cluster 329: PHONEB2 DAT
+PHONEB4 DAT
+PHONEB5 DAT
+Lokhonia Slavic Nigga
+Slavic Nigga Lokhonia
+GPT-4: For cluster 331: BT-SMS-CONTENT
+<BT-SMS-CONTENT>
+vN9tDU.wav
+CLC_FR~1DAT
+HelpBtPrompt
+33AC7A46BFE6EE2
+0A6163DFDB26D9B188FF7895C408B6DF
+70DC0AE524C8F6435F010B83C0B1FC47
+GPT-4: For cluster 332: uninstall
+noitpircsnarT
+PETOHUTNEM
+audio_f22.dat  to %TARGETINSTALL%\\languages\\enu\\speech\\components
+35D74459B6693CC07B0A
+_f22.dat  to %TARGETINSTALL%\\languages\\spm\\speech\\components
+IQS100174_01
+IQS100171_01
+IQS100183_02
+mil_trescientos
+to-"kar-*"pi-sta-*"nwe-be
+to-"kar-*"pi-sta-*5
+"pi-sta-*"sin-ko
+"pi-sta-*"nwe-be
+IQS100164_01
+IQS100181_01
+IQS100171_02
+IQS100172_01
+IQS100172_01_y
+mil_trescientos_ochenta
+IQS100172_02
+GPT-4: For cluster 333: IQS100188_02
+GPT-4: For cluster 334: ASR_SA~1DAT
+ASR_AM~1DAT
+ASR_SA~4DAT
+ASR_SA~9DAT
+ASR_A~11DAT
+BT_PH~17LCF
+=W1287 Monette1282Sania1283Sp771284Tessa1285Zach1286Watson Qwats70
+GPT-4: For cluster 335: USB_MA~7LCF
+USB_MA~8LCF
+Sirius Chann
+echo Removing  %TARGETINSTALL%\\languages\\frc\\speech\\components\\apdb_rp_julie_audio.dat
+echo Removing  %TARGETINSTALL%\\languages\\enu\\speech\\components\\apdb_rp_samantha_audio.dat
+echo Removing %TARGETINSTALL%\\languages\\enu\\speech\\components\\apdb-cs_samantha_audio_f22.dat
+GPT-4: For cluster 336: - echo Removing  %TARGETINSTALL%\\languages\\spm\\speech\\components\\apdb_rp_paulina_audio.dat
+- echo Removing %TARGETINSTALL%\\languages\\spm\\speech\\components\\apdb-cs_paulina_audio_f22.dat
+- IQS15_0137_01
+- IQS15_0137
+- WM/WMContentID
+- Junqueira Gvmar
+- Empresariais Pessoal
+- Pessoal Empresariais
+- @Adriana Flipper
+- @Patricia Prima
+- @David Simcity
+- @Luciana Prima
+- ANilza /Delci
+- AOswaldo SLM
+- @Scott SimCity
+- @Jane Piano Teacher
+- @Juliana Guest
+- @Juliana Rohr
+- @Keila SLM
+- @Patricia - Marcelo
+- @Fabio -Ana
+- @Hannah Piano
+- @Luciana Virno
+- @Priscila Gym
+- @Silvia Global Mission
+GPT-4: For cluster 337: 840A4EEB939F50946EE15C6
+644EB2A0FCD9DF3E
+read_can_zip
+BACK_2~1RAW
+GPT-4: For cluster 338: Champaign Urba(, &E89252B20, -pri-"me-*', u-*pu-"ve-*"DIr-*"tu-*s', "sEs-*kA-"r
+GPT-4: For cluster 339: DP_SEA~1BIN
+DP_TR~21BIN
+Qwats70 Watson
+1286 Monette1281Sania1282Sp771283Tessa1284Zach1285Watson Qwats70
+Watson Qwats70
+@Gabrielli Quantum
+CQwats70 Watson
+@Uellida Miranda
+GPT-4: For cluster 340: DIr-*"wi%#[200]"n
+DIr-*"mArS%#[200]"poz%#[200]
+DIr-*"mArrS%#[200]"poz%#[200]
+GPT-4: For cluster 341: CA502212DBE67, MP3CD_~4LCF
+GPT-4: For cluster 342: IQS100168_01
+GPT-4: For cluster 344: 94B685182B7F9F6ED1154AF9B0ECB2F3
+D06C9FD3A05CBB
+3A417BE030
+FE26D1423A417BE030
+han(g)ar anK.'gar6
+GPT-4: For cluster 345: APDB_R~1DAT
+explorar discoCe
+de-skar-"gar
+atoire de l'album
+Eks-plO-"re
+VLC:
+GPT-4: For cluster 346: PLISTI  DAT
+PHONEB1 DAT
+PHONEB3 DAT
+WM/MediaClassPrimaryID
+Fraternidade N
+1293 Monette1288Sania1289Sp771290Tessa1291Zach1292Watson Qwat3L>5f
+CC98F09A9F
+=ILJIL;NCIH
+314F\\@6262=5 61=U25G0*507-63315.//3/2%0i
+Galaxy A5 (2017)
+@Li Yuchen
+GPT-4: For cluster 347: E91D19CC7C040BA446
+CACC6DAD522D58695F876D7E07B
+5A7B2993950CF2A4FDAB729D4378158D
+EA7F6B8CDA5C72715931F6FE
+8739C5123DE47
+4C9E065231B54AF3C7
+41E6801565A6CDB09D4692FC52BD7EDB
+9D2C2715E670B4C490AE54EE752B8C81
+BT_MAI~7LCF
+MP3CD_~3LCF
+MYMUS~28LCF
+H562*J82$?*7E27
+8D926A37ED946032EC9A497E5C50B214
+gruobsartS
+SENNESUOSP
+|sms|address|
+GPT-4: For cluster 348: F32E642CC8F51D
+IQS15_0071_00
+IQS15_0071_01
+IQS100163_01
+IQS100163_01
+GPT-4: For cluster 349: DP_LAN~1INI
+WM/WMCollectionID
+AverageLevel
+IQS15_0071@
+&CAE01A6599219BA16DB8D9A5E0601D0F
+GPT-4: For cluster 350: m_gen_car_f16_v2_0_1
+pm_gen_car_f16_v2_0_1
+r_f16_v2_0_1
+_gen_car_f16_v2_0_3
+frc_gen_car_f16_v2_0_3
+u_gen_car_f16_v3_1_0
+800_enu_gen_car_f16_v3_1_0
+ar_f16_v3_1_0
+3_800_enu_gen_car_f16_v3_1_0
+nu_gen_car_f16_v3_1_0
+en_car_f16_v3_1_0
+_car_f16_v3_1_0
+_car_f16_v2_0_1
+_800_enu_gen_car_f16_v3_1_0
+car_f16_v3_1_0
+gen_car_f16_v3_1_0
+GPT-4: For cluster 352: 7url_email
+GPT-4: For cluster 354: DP_COM~1INI
+103254HULE
+DP_CO~24INI
+DP_TR~22BIN
+GPT-4: For cluster 356: USB_MA~4LCF
+PANDO~14LCF
+E4DCC1048D5
+4A322FC251039B7DF611DF34123F7765
+&4A322FC251039B7DF611DF34123F7765
+to %TARGETINSTALL%\\languages\\frc\\speech\\components
+GPT-4: For cluster 357: "tag:english"
+DP_TRA~1BIN
+WM/UniqueFileIdentifier
+WM/WMCollectionGroupID
+GPT-4: For cluster 358: USB_MA~3LCF
+USB_MA~5LCF
+XM_MAI~7LCF
+XM_MA~13LCF
+XM_MA~14LCF
+3C7BECACC6DAD522D58695F876D7E07B
+&0BBAEAA896BFCB9CF5487B7DBE7684CD
+&350DDF4C58F4B560AE20C50122A4805A
+6169153C83586C41529A610700E2A737
+&6169153C83586C41529A610700E2A737
+BT_VA~26LCF
+GPT-4: For cluster 360: IQS100190_03
+GPT-4: For cluster 361: IQS100168_02
+&3FF77198FF8593EED03145B10372DB5E
+E02094001CA74BC8FBB0876F4P
+8BB0707A97B76
+GPT-4: For cluster 362: readmodeVDN
+CLC_SU~1DAT
+HELP_2~1RAW
+INPUTE~1RAW
+MYMUS~20LCF
+MYMUS~25LCF
+2F6532BB4EA32C0F84B
+DA1C75D278CDC
+E6E33CBB2D8B493
+GPT-4: For cluster 366: 99AD1354CC0E17DFD441A0545F63A62C
+
+&99AD1354CC0E17DFD441A0545F63A62C
+
+default  =  "C:\\Program Files (x86)\\Nuance\\Vocalizer for Automotive v5"
+
+echo Copying apdb-cs_julie_audio_f22.dat
+GPT-4: For cluster 368: Data with forensically relevant information:
+- 'Dietetica - Haid'
+- '{ br1500ro1495machado1496leo pmv1497nelsinho1498aracaju1499serg'
+- 'jau1490sergio br1491ro1486machado1487leo pmv'
+- 'Uwats70129ania123Sp77124Tessa125Walker126Zach127Watson128Watson Q'
+GPT-4: For cluster 372: <?xml version="1.0"?>
+GPT-4: For cluster 374: - 'DP_SE~15BIN': Possible file or partition name
+- 'UX_MA~1LCF': Possible file or partition name
+- 'D_REA~1LCF': Possible file or partition name
+- '99/)99Z9FIMAK>>': Possible encoded data or error code
+- 'T\\\\\\I\\\\\\G\\\\\\S\\\\\\': Possible file path or directory structure
+- 'X<<<%<<<8<<<Y': Possible encoded data or error code
+- 'B?;>KO;LN?LM': Possible encoded data or error code
+- 'FC?ON?H;HN': Possible encoded data or error code
+- 'lcl?,6Z@P@': Possible encoded data or error code
+- 'IK>LB=>GM:': Possible encoded data or error code
+- 'CAutumn Zlepnig': Possible name of a user or a contact
+- '@Contabil Quantum': Possible name of a user or a contact
+- '@Piano Mover': Possible name of a user or a contact
+GPT-4: For cluster 375: BDA2E7D916063674E73725A6104F147A
+336C87A4FCBD07AE062B5A03ACC9CDB3
+68FB51DEF146FABE2A741AC39FB70621
+C496535ABD3942EDAC478471B1323A06
+C63D72E78417A2F51D0C1536BC842DCF
+del %TARGETINSTALL%\\languages\\frc\\speech\\components\\apdb_rp_julie_audio.dat
+del %TARGETINSTALL%\\languages\\frc\\speech\\components\\apdb-cs_julie_audio_f22.dat
+del %TARGETINSTALL%\\languages\\enu\\speech\\components\\apdb_rp_samantha_audi
+del %TARGETINSTALL%\\languages\\enu\\speech\\components\\apdb-cs_samantha_audio_f22.dat
+GPT-4: For cluster 376: SEPTIEMBRE
+&213AA170FE69498281C32FF672AA66EA
+del %TARGETINSTALL%\\languages\\spm\\speech\\components\\apdb_rp_paulina_audio.dat
+del %TARGETINSTALL%\\languages\\spm\\speech\\components\\apdb-cs_paulina_audio_f22.dat
+ximo de veintid
+ek-splo-"rar-*"di-sko-*kom-"pak-to
+bu-"skar-*"di-sko-*kom-"pak-to
+puede decir aleatorio, aleatorio total, repetir, informaci
+bu-"skar-*kan-"sjon
+bu-"skar-*ka
+_seventy-two
+_sixty-seven
+GPT-4: For cluster 377: 1. 'tha73Thiago74Viviane75Zu76o69Papai70Patricia - Marcelo71Roz72Sha'
+2. '1295 Monette1290Sania1291Sp771292Tessa1293Zach1294Watson Qwats70'
+3. '1288 Monette1283Sania1284Sp771285Tessa1286Zach1287Watson Qwats70'
+4. '1297 Monette1292Sania1293Sp771294Tessa1295Zach1296Watson Qwats70'
+5. '@Alessandro Oficina'
+6. 'AMario Peter2'
+7. 'AJessie EA'
+GPT-4: For cluster 378: RADIO~10LCF
+MP3CD_~8LCF
+MP3CD~10LCF
+MP3CD~13LCF
+MP3CD~14LCF
+MP3CD~15LCF
+GPT-4: For cluster 379: v2.0.3_vadvde
+IQS100173_01
+IQS100174_02
+IQS100185_02
+IQS15_0072
+IQS15_0071
+100193_02_C
+3CFFA30CBE22E20DC57F38FB00C97C88
+&3CFFA30CBE22E20DC57F38FB00C97C88
+GPT-4: For cluster 380: PHONE~10LCF
+43F0A48208
+GPT-4: For cluster 381: <MYMUSIC-LIST>
+XM_MAI~3LCF
+XM_MAI~5LCF
+MYMUS~17LCF
+CD_RE~13LCF
+ERTIT-SUOS
+NOMAHKNATUOT
+APDB-C~1DAT
+USELEC~1DAT
+GPT-4: For cluster 382: 'WHOBF=u!?#Q', 'signo_de_n', 'As-te-"rIsk', 'r$-SEr-"Se', '-*"pa-*lA-*kO-"m', ":2?:\\?IKZj\\", 'A8eA8eRtTmhzu', ].72.5o:0>"B', '-"lit%#[200]d', 'n-*"Pynt-*"nYn', 'd-*"fAr-*"Pynt-*"nYn', 'wEn-Ri-"sIks', '$R+@1067:j=e@', '-*"ju-zez-*"m', '"sar-i%#[200]Y-*dOnt-*"-*h', 'd-*"fYv-*"Pynt-*"nYn', 'n-*"O-*"fYv-*"Pynt-*"nYn', 'n-*"O-*"fAr-*"Pynt-*"nYn', 'BT_PH~16LCF', 'MYMUS~11LCF', 'MYMUS~13LCF', "#'s@mp_'mAR+.S$#", 'tu[stoqmsrwfmvprwyr', "#$.'lI.vi.$#"
+
+In the given data, the following strings appear forensically relevant:
+
+- "WHOBF=u!?#Q": Potential password or encryption key
+- "signo_de_n": A word or phrase in Spanish
+- "As-te-"rIsk": Asterisk spelled with hyphenated phonetic transcription
+- "r$-SEr-"Se": Serve spelled with hyphenated phonetic transcription and a dollar sign
+- "BT_PH~16LCF": Bluetooth related information
+- "MYMUS~11LCF": Possibly related to music files
+- "MYMUS~13LCF": Possibly related to music files
+- Strings with references to numbers: ".72.5o:0>"B", 'wEn-Ri-"sIks" (when rise six), '$R+@1067:j=e@'
+- Password attempts or related information: "n-*"Pynt-*"nYn", "d-*"fAr-*"Pynt-*"nYn", "d-*"fYv-*"Pynt-*"nYn", "n-*"O-*"fYv-*"Pynt-*"nYn", "n-*"O-*"fAr-*"Pynt-*"nYn"
+- Possible encrypted or encoded messages: "#'s@mp_'mAR+.S$#", 'tu[stoqmsrwfmvprwyr', "#$.'lI.vi.$#"
+
+It is important to investigate these further to determine their relevance to the infotainment system and any potential forensic value.
+GPT-4: For cluster 390: - VIRTUAL-SIMILAR
+- <VIRTUAL-SIMILAR>
+- <USB-LIST>
+- BT-SMS-REPLY
+- 6E28D04D06C
+- IPOD_~27LCF
+- MP3CD_~7LCF
+- BT_PH~22LCF
+- IDLE_P~7LCF
+- <voice>enuuni</voice>
+- <voice>Samantha</voice>
+- <dataversion>1_0_2</da
+- set TARGETINSTALL=%1
+- set TARGETINSTALL=%2
+GPT-4: For cluster 391: tokentn_enu
+e]clopedia
+dataversion>
+tion_spell
+dt_enu_mpthree
+DB430B4C64CF4706894BA17
+&read_telephone
+8spell_acronym
+cuadrigent
+IQS15_0220
+repetir activado
+IQS15_0203
+IQS100176_01
+"chargement de l'historique d'appels"
+GPT-4: For cluster 392: BT_PH~15BIN
+DP_MA~22BIN
+DP_SE~20BIN
+eighty-seve
+"SO-*"dIsk
+@Jackeline
+GPT-4: For cluster 393: USB_MA~6LCF
+XM_MA~11LCF
+IPOD_~25LCF
+MP3CD_~5LCF
+CD_REA~5LCF
+<fecfg>cfg1</fecfg>
+GPT-4: For cluster 394: 5DE912B9748BDBF958C71700ECC1EA1D
+7cross_token
+GPT-4: For cluster 395: SDS_AG~1BIN, @Nathalice
+GPT-4: For cluster 399: FD95A5D76D686E92560A4A89C31B49A8
+871DC0C8D671C656A332F725DD3E1D6C
+IPOD_~18LCF
+MP3CD~11LCF
+BT_VAD~1LCF
+<frequencyhz>22050</frequencyhz>
+GPT-4: For cluster 400: IQS15_0188
+IQS100179_01
+IQS15_0185
+GPT-4: For cluster 401: TCD782TPE2
+ASR_S~12DAT
+IQS15_0203_
+GPT-4: For cluster 402: Rcross_token
+depes_spm_vadvde
+depes_enu_vadvde
+depes_enu_enuuni_vadvde
+depes_enu_mpthree
+100167_01_s
+GPT-4: For cluster 403: BE3BBF6DF34B317v
+GPT-4: For cluster 407: 'POPUP-DOWNLOAD-PHONEBOOK', 'BT-PHONEBOOK-CONTENT', '<BT-PHONEBOOK-CONTENT>', '<BT-PHONEBOOK-LIST>', 'BT-PHONEBOOK-NBEST', 'RADIO~14LCF', 'AUDIOC~7LCF', 'AUDIO~10LCF', 'AUDIO~11LCF', 'AUDIO~13LCF', 'AUDIO~14LCF', 'AUDIO~15LCF', 'IDLE_P~8LCF', 'PHONE~20LCF', 'PHONE~27LCF', 'RADIO_~7LCF', 'AUDIO_~2BIN', 'AUDIO~18LCF', 'PHONEM~8LCF', 'AUDIO~17LCF', 'PHONEM~7LCF', 'AUDIO~21LCF', 'AUDIO~20LCF'
